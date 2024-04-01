@@ -14,6 +14,14 @@ Achtung hier in Github sind nur die mod datein also nicht alles löschen sondern
 (Pause) <br><br>
 <img width="500" src="/README/pause.jpg">
 
+### JonxEssentials
+(TAB) Offen/tablette (ist ausgeschaltet in .cfg) <br>
+Scrollrad: Drehbox beim Tragen <br>
+(STRG) Crouch <br>
+(Q & E) Lean <br>
+(O) Öffnen/Schlose Geschäft entfernt <br>
+(U) Offene Tür manuell öffnen/ Schließen Sie Türen ohne den Store-Status zu beeinträchtigen
+
 ## Was ist alles Drauf
 ### PortableScanner
 Fügen Sie Ihrem Warenkorb ein Produkt aus der Ferne hinzu, indem Sie die mittlere Maustaste auf einem Produktetikett verwenden.
@@ -37,6 +45,12 @@ Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
 Eine schnelle und einfache temporäre Lösung für Aufstockhalter, die Kisten nicht von der Straße in die Lagerung bringen!
 ### DeliveryOrganizer
 Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
+### DeliveryOrganizer
+Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
+### JonxEssentials
+Jonx' Essentials fügt dem Supermarkt-Simulator eine Vielzahl anpassbarer Verbesserungen hinzu.
+
+
 
 # Wie und wo findet ihr den Onkel
 https://www.twitch.tv/official_deronkel <br>
