@@ -16,7 +16,7 @@ mit der rechten Maustaste auf das Spiel in ihrer Steam-Bibliothek klicken und au
 <img width="500" src="/README/pause.jpg">
 
 ### JonxEssentials
-(TAB) Offen/tablette (ist ausgeschaltet in .cfg) <br>
+(TAB) öffnen vom Tablet (zum ausschalten in der .cfg) <br>
 Scrollrad: Beim Tragen der Box drehen <br>
 (STRG) Hocken <br>
 (Q & E) nach links und recht lehnen <br>
