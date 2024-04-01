@@ -1,8 +1,9 @@
 # Onkels Supermarket Modpaket
 
-## kleine Anleitung
-https://drive.google.com/file/d/1jx-Oh_w0sTRfIl0rrhVQHHjAGx2uWRO6/view?usp=drive_link <br>
-Achtung hier in Github sind nur die mod datein also nicht alles löschen sondern nur alles reinschieben danke
+## Anleitung
+1. Spiel Ordner Offnen <br>
+mit der rechten Maustaste auf das Spiel in ihrer Steam-Bibliothek klicken und auswählen Verwalten -> Lokale Dateien durchsuchen.
+2. Die entpacken datein Im Spiel Ordner einfügen/rüberschieben
 
 ## Wichtige Hotkeys
 ### PortableScanner
