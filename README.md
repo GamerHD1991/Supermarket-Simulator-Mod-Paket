@@ -16,11 +16,11 @@ Achtung hier in Github sind nur die mod datein also nicht alles löschen sondern
 
 ### JonxEssentials
 (TAB) Offen/tablette (ist ausgeschaltet in .cfg) <br>
-Scrollrad: Drehbox beim Tragen <br>
-(STRG) Crouch <br>
-(Q & E) Lean <br>
-(O) Öffnen/Schlose Geschäft entfernt <br>
-(U) Offene Tür manuell öffnen/ Schließen Sie Türen ohne den Store-Status zu beeinträchtigen
+Scrollrad: Beim Tragen der Box drehen <br>
+(STRG) Hocken <br>
+(Q & E) nach links und recht lehnen <br>
+(O) Öffnen/Schließen Geschäft/lager Tür <br>
+(U) Öffnen/Schließen Geschäft/lager Tür ohne den Store-Status zu beeinträchtigen
 
 ## Was ist alles Drauf
 ### PortableScanner
