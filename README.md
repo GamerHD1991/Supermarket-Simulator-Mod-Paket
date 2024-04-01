@@ -49,12 +49,12 @@ Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert 
 Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
 ### JonxEssentials
 Jonx' Essentials fügt dem Supermarkt-Simulator eine Vielzahl anpassbarer Verbesserungen hinzu.
-<img width="500" src="https://i.ibb.co/CKxkYbp/Computer2-Go.gif">
-<img width="500" src="https://i.ibb.co/p3GQxPN/Employees.gif">
-<img width="500" src="https://i.ibb.co/B3pLv9x/Store-Doors.gif">
-<img width="500" src="https://i.ibb.co/phK06v6/SMS-Box.gif">
-<img width="500" src="https://i.ibb.co/rd9F47f/Crouching.gif">
-<img width="500" src="https://i.ibb.co/vV8Wffr/Leaning.gif">
+<img width="500" src="https://i.ibb.co/CKxkYbp/Computer2-Go.gif"><br>
+<img width="500" src="https://i.ibb.co/p3GQxPN/Employees.gif"><br>
+<img width="500" src="https://i.ibb.co/B3pLv9x/Store-Doors.gif"><br>
+<img width="500" src="https://i.ibb.co/phK06v6/SMS-Box.gif"><br>
+<img width="500" src="https://i.ibb.co/rd9F47f/Crouching.gif"><br>
+<img width="500" src="https://i.ibb.co/vV8Wffr/Leaning.gif"><br>
 <img width="500" src="https://i.ibb.co/ZXFmgws/Bobbing.gif">
 
 
