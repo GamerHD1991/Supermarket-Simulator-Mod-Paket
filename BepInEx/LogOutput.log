@@ -1,0 +1,1006 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Supermarket Simulator (29.02.2024 23:55:30)
+[Info   :   BepInEx] Running under Unity v2021.3.31.3410402
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [Tobey.BepInExMelonLoaderWizard 0.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type System.IO.Directory and name ResolveLinkTarget and parameters (string, bool)
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 6 plugins to load
+[Info   :   BepInEx] Loading [BepInEx.MelonLoader.Loader.UnityMono 2.1.0]
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] Game Name: Supermarket Simulator
+[Message:MelonLoader] Game Developer: Nokta Games
+[Message:MelonLoader] Unity Version: 2021.3.31f1
+[Message:MelonLoader] Game Version: UNKNOWN
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] 
+[Message:MelonLoader] Preferences Loaded!
+[Message:MelonLoader] 
+[Message:MelonLoader] Loading Plugins from 'D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\Plugins'...
+[Message:MelonLoader] 0 Plugins loaded.
+[Message:MelonLoader] 
+[Message:MelonLoader] Loading Mods from 'D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\Mods'...
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\AutoPriceUpdater.dll'
+[Message:MelonLoader] SHA256 Hash: '1f9ec0a78e2618d922aa6c3b79801d26c7029e9eab4342adaa21c86d7d8436fb'
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\CheckoutDarkTheme.dll'
+[Message:MelonLoader] SHA256 Hash: 'e3dbde2ab9aa0ce0de7a3ff12eea53bc9c350cae8a40f5aa5a8a2e2f05eb874b'
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\DeliveryOrganizer.dll'
+[Message:MelonLoader] SHA256 Hash: '35fc0ca259633a20b8bc9fae43421351a47e3a82bae6176589787fcf6bb28f2b'
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\EZDelivery.dll'
+[Message:MelonLoader] SHA256 Hash: '73cc638f7d58ddd7968e359cbfe88c15187a4c8b168d6023540293ffb5312edb'
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\NoMaxOrderLimit.dll'
+[Message:MelonLoader] SHA256 Hash: 'b379dac47c3f1804e9336ab37bedb860c6d1892615063245293adfab1daa25a9'
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\PauseRestockers.dll'
+[Message:MelonLoader] SHA256 Hash: '437d4ecde655b38778bf0eb0ad9747c9d3ac976967882ccf9ace3489a526cf9c'
+[Message:MelonLoader] Melon Assembly loaded: '.\Mods\StoreCustomizer.dll'
+[Message:MelonLoader] SHA256 Hash: 'f36a9a6a155f91b4761a6cb52c4530fc458bf42af5458e922fbf05a510337b5e'
+[Message:MelonLoader] 
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] Price Updater v0.0.8 by DIASILEDU []
+[Message:MelonLoader] Assembly: AutoPriceUpdater.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] Checkout Dark Theme v1.1.0 by Morabis []
+[Message:MelonLoader] Assembly: CheckoutDarkTheme.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] DeliveryOrganizer v0.0.2 by DIASILEDU []
+[Message:MelonLoader] Assembly: DeliveryOrganizer.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] EZ Delivery v1.0 by WaffDev []
+[Message:MelonLoader] Assembly: EZDelivery.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] No Max Order Limit v1.0.5 by AlconH []
+[Message:MelonLoader] Assembly: NoMaxOrderLimit.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] PauseRestockers v1.0.1 by AlconH []
+[Message:MelonLoader] Assembly: PauseRestockers.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] Store Customizer v1.1.0 by iSoq []
+[Message:MelonLoader] Assembly: StoreCustomizer.dll
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] ------------------------------
+[Message:MelonLoader] 7 Mods loaded.
+[Message:MelonLoader] 
+[Message:MelonLoader] Support Module Loaded: D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\MelonLoader\Dependencies\SupportModules\Mono.dll
+[Info   : Unity Log] -------------------------------------------------------------------------------------------------------
+[Info   : Unity Log] ~   This Game has been MODIFIED using MelonLoader. DO NOT report any issues to the Game Developers!   ~
+[Info   : Unity Log] -------------------------------------------------------------------------------------------------------
+[Message:MelonLoader] [Price_Updater] MelonPreferences Loaded from D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\UserData\PriceUpdater.cfg
+[Message:MelonLoader] [DeliveryOrganizer] DeliveryOrganizerMod has been loaded!
+[Info   : Unity Log] Delivery
+[Message:MelonLoader] [EZ_Delivery] Preferences Saved!
+[Message:MelonLoader] [Store_Customizer] StoreCustomizationMod started
+[Message:MelonLoader] MelonPreferences Loaded from D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\UserData\store_customizer.cfg
+[Message:MelonLoader] [Store_Customizer] MelonPreferences Loaded from D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\UserData\store_customizer.cfg
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] Loading assets from: D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\assets/storecustomizer_ui
+[Info   :   BepInEx] Loading [ChangeCurrency 1.2.0]
+[Info   :ChangeCurrency] Plugin ChangeCurrency is loaded! Applying patch...
+[Info   :   BepInEx] Loading [PortableScanner 1.1.2]
+[Info   :   BepInEx] Loading [QuieterCars 1.0.0]
+[Info   :QuieterCars] Plugin QuieterCars is loaded!
+[Info   :   BepInEx] Loading [File Tree 1.0.0]
+[Info   :   BepInEx] Loading [UnrestrictedPlacement 1.0.0]
+[Info   :UnrestrictedPlacement] Plugin UnrestrictedPlacement is loaded! Applying patch...
+[Message:   BepInEx] Chainloader startup complete
+[Error  : Unity Log] Singleton of type : PlayerInteraction not found on scene
+[Error  : Unity Log] Singleton of type : RackManager not found on scene
+[Error  : Unity Log] Singleton of type : PlayerInteraction not found on scene
+[Error  : Unity Log] Singleton of type : RackManager not found on scene
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] OnSceneWasLoaded: Main Menu
+[Message: File Tree] D:\SteamLibrary\steamapps\common\Supermarket Simulator
+[Message: File Tree] |
+[Message: File Tree] |-- .git
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
+[Message: File Tree] |
+[Message: File Tree] |-- BepInEx
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- cache
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   |-- chainloader_typeloader.dat [2,08 KB]
+[Message: File Tree] |   |   \-- harmony_interop_cache.dat [4,25 KB]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- config
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   |-- BepInEx.cfg [5,43 KB]
+[Message: File Tree] |   |   |-- BepInEx.MelonLoader.Loader.UnityMono.cfg [2,51 KB]
+[Message: File Tree] |   |   |-- ChangeCurrency.cfg [4,83 KB]
+[Message: File Tree] |   |   |-- PortableScanner.cfg [4,78 KB]
+[Message: File Tree] |   |   |-- QuieterCars.cfg [239 B]
+[Message: File Tree] |   |   \-- Tobey.FileTree.cfg [406 B]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- core
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   |-- 0Harmony.dll [200 KB]
+[Message: File Tree] |   |   |-- 0Harmony.xml [260,85 KB]
+[Message: File Tree] |   |   |-- 0Harmony20.dll [109 KB]
+[Message: File Tree] |   |   |-- BepInEx.dll [124,5 KB]
+[Message: File Tree] |   |   |-- BepInEx.Harmony.dll [5,5 KB]
+[Message: File Tree] |   |   |-- BepInEx.Harmony.xml [3,96 KB]
+[Message: File Tree] |   |   |-- BepInEx.Preloader.dll [41,5 KB]
+[Message: File Tree] |   |   |-- BepInEx.Preloader.xml [7,79 KB]
+[Message: File Tree] |   |   |-- BepInEx.xml [87,73 KB]
+[Message: File Tree] |   |   |-- HarmonyXInterop.dll [23 KB]
+[Message: File Tree] |   |   |-- Mono.Cecil.dll [331,5 KB]
+[Message: File Tree] |   |   |-- Mono.Cecil.Mdb.dll [42 KB]
+[Message: File Tree] |   |   |-- Mono.Cecil.Pdb.dll [84,5 KB]
+[Message: File Tree] |   |   |-- Mono.Cecil.Rocks.dll [27 KB]
+[Message: File Tree] |   |   |-- MonoMod.RuntimeDetour.dll [103,5 KB]
+[Message: File Tree] |   |   |-- MonoMod.RuntimeDetour.xml [9,19 KB]
+[Message: File Tree] |   |   |-- MonoMod.Utils.dll [183,5 KB]
+[Message: File Tree] |   |   \-- MonoMod.Utils.xml [77,12 KB]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- patchers
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   \-- Tobey
+[Message: File Tree] |   |       |
+[Message: File Tree] |   |       |-- Tobey.BepInExMelonLoaderWizard.dll [28 KB]
+[Message: File Tree] |   |       \-- Tobey.BepInExMelonLoaderWizard.MLDisabler.exe [10,56 MB]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- plugins
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   \-- (contents not shown)
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- LogOutput.log [6,9 KB]
+[Message: File Tree] |
+[Message: File Tree] |-- MLLoader
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- assets
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   |-- storecustomizer_ui [446,39 KB]
+[Message: File Tree] |   |   |-- storecustomizer_ui.manifest [5,11 KB]
+[Message: File Tree] |   |   |-- storecustomizer_ui.manifest.meta [158 B]
+[Message: File Tree] |   |   \-- storecustomizer_ui.meta [155 B]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- MelonLoader
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   \-- Dependencies
+[Message: File Tree] |   |       |
+[Message: File Tree] |   |       |-- CompatibilityLayers
+[Message: File Tree] |   |       |   |
+[Message: File Tree] |   |       |   |-- Demeo.dll [9,5 KB]
+[Message: File Tree] |   |       |   |-- IPA.dll [9,5 KB]
+[Message: File Tree] |   |       |   \-- Muse_Dash_Mono.dll [8 KB]
+[Message: File Tree] |   |       |
+[Message: File Tree] |   |       |-- SupportModules
+[Message: File Tree] |   |       |   |
+[Message: File Tree] |   |       |   |-- Mono.dll [11 KB]
+[Message: File Tree] |   |       |   \-- Preload.dll [1,86 MB]
+[Message: File Tree] |   |       |
+[Message: File Tree] |   |       \-- MelonStartScreen.dll [704 KB]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- Mods
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   |-- AutoPriceUpdater.dll [13 KB]
+[Message: File Tree] |   |   |-- CheckoutDarkTheme.dll [8,5 KB]
+[Message: File Tree] |   |   |-- DeliveryOrganizer.dll [10 KB]
+[Message: File Tree] |   |   |-- EZDelivery.dll [11 KB]
+[Message: File Tree] |   |   |-- NoMaxOrderLimit.dll [7,5 KB]
+[Message: File Tree] |   |   |-- PauseRestockers.dll [5,5 KB]
+[Message: File Tree] |   |   \-- StoreCustomizer.dll [33,5 KB]
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- Plugins
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   \-- (contents not shown)
+[Message: File Tree] |   |
+[Message: File Tree] |   |-- UserData
+[Message: File Tree] |   |   |
+[Message: File Tree] |   |   |-- MelonPreferences.cfg [67 B]
+[Message: File Tree] |   |   |-- PriceUpdater.cfg [868 B]
+[Message: File Tree] |   |   |-- StoreRenamer.cfg [70 B]
+[Message: File Tree] |   |   \-- store_customizer.cfg [474 B]
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- UserLibs
+[Message: File Tree] |
+[Message: File Tree] |-- MonoBleedingEdge
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
+[Message: File Tree] |
+[Message: File Tree] |-- Plugins
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
+[Message: File Tree] |
+[Message: File Tree] |-- README
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
+[Message: File Tree] |
+[Message: File Tree] |-- Supermarket Simulator_BurstDebugInformation_DoNotShip
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
+[Message: File Tree] |
+[Message: File Tree] |-- Supermarket Simulator_Data
+[Message: File Tree] |   |
+[Message: File Tree] |   \-- (contents not shown)
+[Message: File Tree] |
+[Message: File Tree] |-- .gitattributes [66 B]
+[Message: File Tree] |-- changelog.txt [1,36 KB]
+[Message: File Tree] |-- doorstop_config.ini [891 B]
+[Message: File Tree] |-- LICENSE [1,06 KB]
+[Message: File Tree] |-- README.md [2,22 KB]
+[Message: File Tree] |-- Supermarket Simulator.exe [638,5 KB]
+[Message: File Tree] |-- UnityCrashHandler64.exe [1,07 MB]
+[Message: File Tree] |-- UnityPlayer.dll [28,09 MB]
+[Message: File Tree] |-- version.dll [24,5 KB]
+[Message: File Tree] \-- winhttp.dll [24,5 KB]
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] OnSceneWasLoaded: Main Scene
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] LoadedComputerObjects
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] LoadedWallsObjects
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] Loading config into game
+[Info   : Unity Log] StoreCustomizerName: True
+[Info   : Unity Log] m_OnClickTrue
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Info   : Unity Log] Furnitures loaded: 43
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "---GAME---/Store/Storage/Walls/Showcase_Store_08/Showcase_Store_Door_08"
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Message:MelonLoader] [Price_Updater] Starting AutoPriceUpdater
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+[Info   : Unity Log] Checked a task with state of: IDLE
+[Info   : Unity Log] Looking for something to restock...
+[Info   : Unity Log] State turned to Restocking and resetted targets
+[Info   : Unity Log] Products found in inventory:
+[Info   : Unity Log] ProductID: 70
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 33
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 115
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 79
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 86
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 2
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 85
+[Info   : Unity Log] Product count: 5
+[Info   : Unity Log] ProductID: 8
+[Info   : Unity Log] Product count: 7
+[Info   : Unity Log] ProductID: 46
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 44
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 39
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 146
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 55
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 99
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 78
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 76
+[Info   : Unity Log] Product count: 12
+[Info   : Unity Log] ProductID: 77
+[Info   : Unity Log] Product count: 13
+[Info   : Unity Log] ProductID: 57
+[Info   : Unity Log] Product count: 14
+[Info   : Unity Log] ProductID: 83
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 82
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 66
+[Info   : Unity Log] Product count: 16
+[Info   : Unity Log] ProductID: 37
+[Info   : Unity Log] Product count: 17
+[Info   : Unity Log] ProductID: 67
+[Info   : Unity Log] Product count: 18
+[Info   : Unity Log] ProductID: 151
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 128
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 144
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 9
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 147
+[Info   : Unity Log] Product count: 22
+[Info   : Unity Log] ProductID: 34
+[Info   : Unity Log] Product count: 23
+[Info   : Unity Log] ProductID: 36
+[Info   : Unity Log] Product count: 24
+[Info   : Unity Log] ProductID: 132
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 24
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 26
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 74
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 119
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 73
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 84
+[Info   : Unity Log] Product count: 28
+[Info   : Unity Log] ProductID: 62
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 65
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 95
+[Info   : Unity Log] Product count: 30
+[Info   : Unity Log] ProductID: 64
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 138
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 68
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 32
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 1
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 117
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 7
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 161
+[Info   : Unity Log] Product count: 36
+[Info   : Unity Log] ProductID: 30
+[Info   : Unity Log] Product count: 41
+[Info   : Unity Log] ProductID: 137
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 3
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 139
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 135
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 136
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 6
+[Info   : Unity Log] Product count: 57
+[Info   : Unity Log] Cheching productID: 70
+[Info   : Unity Log] Looking for available display slot to restock productID: 70
+[Info   : Unity Log] Found an available display slot for productID: 70
+[Info   : Unity Log] Occupied productID: 70
+[Info   : Unity Log] Looking for a racked box that contains productID: 70
+[Info   : Unity Log] There's no rack slot with a box for productID: 70
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 70. Looking for next product...
+[Info   : Unity Log] Cheching productID: 33
+[Info   : Unity Log] Looking for available display slot to restock productID: 33
+[Info   : Unity Log] Found an available display slot for productID: 33
+[Info   : Unity Log] Occupied productID: 33
+[Info   : Unity Log] Looking for a racked box that contains productID: 33
+[Info   : Unity Log] There's no rack slot with a box for productID: 33
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 33. Looking for next product...
+[Info   : Unity Log] Cheching productID: 115
+[Info   : Unity Log] Looking for available display slot to restock productID: 115
+[Info   : Unity Log] Found an available display slot for productID: 115
+[Info   : Unity Log] Occupied productID: 115
+[Info   : Unity Log] Looking for a racked box that contains productID: 115
+[Info   : Unity Log] There's no rack slot with a box for productID: 115
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 115. Looking for next product...
+[Info   : Unity Log] Cheching productID: 79
+[Info   : Unity Log] Looking for available display slot to restock productID: 79
+[Info   : Unity Log] Found an available display slot for productID: 79
+[Info   : Unity Log] Occupied productID: 79
+[Info   : Unity Log] Looking for a racked box that contains productID: 79
+[Info   : Unity Log] There's no rack slot with a box for productID: 79
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 79. Looking for next product...
+[Info   : Unity Log] Cheching productID: 86
+[Info   : Unity Log] Looking for available display slot to restock productID: 86
+[Info   : Unity Log] Found an available display slot for productID: 86
+[Info   : Unity Log] Occupied productID: 86
+[Info   : Unity Log] Looking for a racked box that contains productID: 86
+[Info   : Unity Log] There's no rack slot with a box for productID: 86
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 86. Looking for next product...
+[Info   : Unity Log] Cheching productID: 2
+[Info   : Unity Log] Looking for available display slot to restock productID: 2
+[Info   : Unity Log] Found an available display slot for productID: 2
+[Info   : Unity Log] Occupied productID: 2
+[Info   : Unity Log] Looking for a racked box that contains productID: 2
+[Info   : Unity Log] There's no rack slot with a box for productID: 2
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 2. Looking for next product...
+[Info   : Unity Log] Cheching productID: 85
+[Info   : Unity Log] Looking for available display slot to restock productID: 85
+[Info   : Unity Log] Found an available display slot for productID: 85
+[Info   : Unity Log] Occupied productID: 85
+[Info   : Unity Log] Looking for a racked box that contains productID: 85
+[Info   : Unity Log] Going to target rack slot...
+[Info   : Unity Log] Checked a task with state of: IDLE
+[Info   : Unity Log] Looking for something to restock...
+[Info   : Unity Log] State turned to Restocking and resetted targets
+[Info   : Unity Log] Products found in inventory:
+[Info   : Unity Log] ProductID: 70
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 33
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 115
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 79
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 86
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 2
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 85
+[Info   : Unity Log] Product count: 5
+[Info   : Unity Log] ProductID: 8
+[Info   : Unity Log] Product count: 7
+[Info   : Unity Log] ProductID: 46
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 44
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 39
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 146
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 55
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 99
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 78
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 76
+[Info   : Unity Log] Product count: 12
+[Info   : Unity Log] ProductID: 77
+[Info   : Unity Log] Product count: 13
+[Info   : Unity Log] ProductID: 57
+[Info   : Unity Log] Product count: 14
+[Info   : Unity Log] ProductID: 83
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 82
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 66
+[Info   : Unity Log] Product count: 16
+[Info   : Unity Log] ProductID: 37
+[Info   : Unity Log] Product count: 17
+[Info   : Unity Log] ProductID: 67
+[Info   : Unity Log] Product count: 18
+[Info   : Unity Log] ProductID: 151
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 128
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 144
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 9
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 147
+[Info   : Unity Log] Product count: 22
+[Info   : Unity Log] ProductID: 34
+[Info   : Unity Log] Product count: 23
+[Info   : Unity Log] ProductID: 36
+[Info   : Unity Log] Product count: 24
+[Info   : Unity Log] ProductID: 132
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 24
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 26
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 74
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 119
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 73
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 84
+[Info   : Unity Log] Product count: 28
+[Info   : Unity Log] ProductID: 62
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 65
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 95
+[Info   : Unity Log] Product count: 30
+[Info   : Unity Log] ProductID: 64
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 138
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 68
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 32
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 1
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 117
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 7
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 161
+[Info   : Unity Log] Product count: 36
+[Info   : Unity Log] ProductID: 30
+[Info   : Unity Log] Product count: 41
+[Info   : Unity Log] ProductID: 137
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 3
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 139
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 135
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 136
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 6
+[Info   : Unity Log] Product count: 57
+[Info   : Unity Log] Cheching productID: 70
+[Info   : Unity Log] Looking for available display slot to restock productID: 70
+[Info   : Unity Log] Found an available display slot for productID: 70
+[Info   : Unity Log] Occupied productID: 70
+[Info   : Unity Log] Looking for a racked box that contains productID: 70
+[Info   : Unity Log] There's no rack slot with a box for productID: 70
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 70. Looking for next product...
+[Info   : Unity Log] Cheching productID: 33
+[Info   : Unity Log] Looking for available display slot to restock productID: 33
+[Info   : Unity Log] Found an available display slot for productID: 33
+[Info   : Unity Log] Occupied productID: 33
+[Info   : Unity Log] Looking for a racked box that contains productID: 33
+[Info   : Unity Log] There's no rack slot with a box for productID: 33
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 33. Looking for next product...
+[Info   : Unity Log] Cheching productID: 115
+[Info   : Unity Log] Looking for available display slot to restock productID: 115
+[Info   : Unity Log] Found an available display slot for productID: 115
+[Info   : Unity Log] Occupied productID: 115
+[Info   : Unity Log] Looking for a racked box that contains productID: 115
+[Info   : Unity Log] There's no rack slot with a box for productID: 115
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 115. Looking for next product...
+[Info   : Unity Log] Cheching productID: 79
+[Info   : Unity Log] Looking for available display slot to restock productID: 79
+[Info   : Unity Log] Found an available display slot for productID: 79
+[Info   : Unity Log] Occupied productID: 79
+[Info   : Unity Log] Looking for a racked box that contains productID: 79
+[Info   : Unity Log] There's no rack slot with a box for productID: 79
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 79. Looking for next product...
+[Info   : Unity Log] Cheching productID: 86
+[Info   : Unity Log] Looking for available display slot to restock productID: 86
+[Info   : Unity Log] Found an available display slot for productID: 86
+[Info   : Unity Log] Occupied productID: 86
+[Info   : Unity Log] Looking for a racked box that contains productID: 86
+[Info   : Unity Log] There's no rack slot with a box for productID: 86
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 86. Looking for next product...
+[Info   : Unity Log] Cheching productID: 2
+[Info   : Unity Log] Looking for available display slot to restock productID: 2
+[Info   : Unity Log] Found an available display slot for productID: 2
+[Info   : Unity Log] Occupied productID: 2
+[Info   : Unity Log] Looking for a racked box that contains productID: 2
+[Info   : Unity Log] There's no rack slot with a box for productID: 2
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 2. Looking for next product...
+[Info   : Unity Log] Cheching productID: 85
+[Info   : Unity Log] Another restocker have occupied this product. Looking for next product...
+[Info   : Unity Log] Cheching productID: 8
+[Info   : Unity Log] Looking for available display slot to restock productID: 8
+[Info   : Unity Log] Found an available display slot for productID: 8
+[Info   : Unity Log] Occupied productID: 8
+[Info   : Unity Log] Looking for a racked box that contains productID: 8
+[Info   : Unity Log] There's no rack slot with a box for productID: 8
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 8. Looking for next product...
+[Info   : Unity Log] Cheching productID: 46
+[Info   : Unity Log] Looking for available display slot to restock productID: 46
+[Info   : Unity Log] Found an available display slot for productID: 46
+[Info   : Unity Log] Occupied productID: 46
+[Info   : Unity Log] Looking for a racked box that contains productID: 46
+[Info   : Unity Log] There's no rack slot with a box for productID: 46
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 46. Looking for next product...
+[Info   : Unity Log] Cheching productID: 44
+[Info   : Unity Log] Looking for available display slot to restock productID: 44
+[Info   : Unity Log] Found an available display slot for productID: 44
+[Info   : Unity Log] Occupied productID: 44
+[Info   : Unity Log] Looking for a racked box that contains productID: 44
+[Info   : Unity Log] Going to target rack slot...
+[Info   : Unity Log] Checked a task with state of: IDLE
+[Info   : Unity Log] Looking for something to restock...
+[Info   : Unity Log] State turned to Restocking and resetted targets
+[Info   : Unity Log] Products found in inventory:
+[Info   : Unity Log] ProductID: 70
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 33
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 115
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 79
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 86
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 2
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 85
+[Info   : Unity Log] Product count: 5
+[Info   : Unity Log] ProductID: 8
+[Info   : Unity Log] Product count: 7
+[Info   : Unity Log] ProductID: 46
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 44
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 39
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 146
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 55
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 99
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 78
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 76
+[Info   : Unity Log] Product count: 12
+[Info   : Unity Log] ProductID: 77
+[Info   : Unity Log] Product count: 13
+[Info   : Unity Log] ProductID: 57
+[Info   : Unity Log] Product count: 14
+[Info   : Unity Log] ProductID: 83
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 82
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 66
+[Info   : Unity Log] Product count: 16
+[Info   : Unity Log] ProductID: 37
+[Info   : Unity Log] Product count: 17
+[Info   : Unity Log] ProductID: 67
+[Info   : Unity Log] Product count: 18
+[Info   : Unity Log] ProductID: 151
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 128
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 144
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 9
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 147
+[Info   : Unity Log] Product count: 22
+[Info   : Unity Log] ProductID: 34
+[Info   : Unity Log] Product count: 23
+[Info   : Unity Log] ProductID: 36
+[Info   : Unity Log] Product count: 24
+[Info   : Unity Log] ProductID: 132
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 24
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 26
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 74
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 119
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 73
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 84
+[Info   : Unity Log] Product count: 28
+[Info   : Unity Log] ProductID: 62
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 65
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 95
+[Info   : Unity Log] Product count: 30
+[Info   : Unity Log] ProductID: 64
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 138
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 68
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 32
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 1
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 117
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 7
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 161
+[Info   : Unity Log] Product count: 36
+[Info   : Unity Log] ProductID: 30
+[Info   : Unity Log] Product count: 41
+[Info   : Unity Log] ProductID: 137
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 3
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 139
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 135
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 136
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 6
+[Info   : Unity Log] Product count: 57
+[Info   : Unity Log] Cheching productID: 70
+[Info   : Unity Log] Looking for available display slot to restock productID: 70
+[Info   : Unity Log] Found an available display slot for productID: 70
+[Info   : Unity Log] Occupied productID: 70
+[Info   : Unity Log] Looking for a racked box that contains productID: 70
+[Info   : Unity Log] There's no rack slot with a box for productID: 70
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 70. Looking for next product...
+[Info   : Unity Log] Cheching productID: 33
+[Info   : Unity Log] Looking for available display slot to restock productID: 33
+[Info   : Unity Log] Found an available display slot for productID: 33
+[Info   : Unity Log] Occupied productID: 33
+[Info   : Unity Log] Looking for a racked box that contains productID: 33
+[Info   : Unity Log] There's no rack slot with a box for productID: 33
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 33. Looking for next product...
+[Info   : Unity Log] Cheching productID: 115
+[Info   : Unity Log] Looking for available display slot to restock productID: 115
+[Info   : Unity Log] Found an available display slot for productID: 115
+[Info   : Unity Log] Occupied productID: 115
+[Info   : Unity Log] Looking for a racked box that contains productID: 115
+[Info   : Unity Log] There's no rack slot with a box for productID: 115
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 115. Looking for next product...
+[Info   : Unity Log] Cheching productID: 79
+[Info   : Unity Log] Looking for available display slot to restock productID: 79
+[Info   : Unity Log] Found an available display slot for productID: 79
+[Info   : Unity Log] Occupied productID: 79
+[Info   : Unity Log] Looking for a racked box that contains productID: 79
+[Info   : Unity Log] There's no rack slot with a box for productID: 79
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 79. Looking for next product...
+[Info   : Unity Log] Cheching productID: 86
+[Info   : Unity Log] Looking for available display slot to restock productID: 86
+[Info   : Unity Log] Found an available display slot for productID: 86
+[Info   : Unity Log] Occupied productID: 86
+[Info   : Unity Log] Looking for a racked box that contains productID: 86
+[Info   : Unity Log] There's no rack slot with a box for productID: 86
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 86. Looking for next product...
+[Info   : Unity Log] Cheching productID: 2
+[Info   : Unity Log] Looking for available display slot to restock productID: 2
+[Info   : Unity Log] Found an available display slot for productID: 2
+[Info   : Unity Log] Occupied productID: 2
+[Info   : Unity Log] Looking for a racked box that contains productID: 2
+[Info   : Unity Log] There's no rack slot with a box for productID: 2
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 2. Looking for next product...
+[Info   : Unity Log] Cheching productID: 85
+[Info   : Unity Log] Another restocker have occupied this product. Looking for next product...
+[Info   : Unity Log] Cheching productID: 8
+[Info   : Unity Log] Looking for available display slot to restock productID: 8
+[Info   : Unity Log] Found an available display slot for productID: 8
+[Info   : Unity Log] Occupied productID: 8
+[Info   : Unity Log] Looking for a racked box that contains productID: 8
+[Info   : Unity Log] There's no rack slot with a box for productID: 8
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 8. Looking for next product...
+[Info   : Unity Log] Cheching productID: 46
+[Info   : Unity Log] Looking for available display slot to restock productID: 46
+[Info   : Unity Log] Found an available display slot for productID: 46
+[Info   : Unity Log] Occupied productID: 46
+[Info   : Unity Log] Looking for a racked box that contains productID: 46
+[Info   : Unity Log] There's no rack slot with a box for productID: 46
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 46. Looking for next product...
+[Info   : Unity Log] Cheching productID: 44
+[Info   : Unity Log] Another restocker have occupied this product. Looking for next product...
+[Info   : Unity Log] Cheching productID: 39
+[Info   : Unity Log] Looking for available display slot to restock productID: 39
+[Info   : Unity Log] Found an available display slot for productID: 39
+[Info   : Unity Log] Occupied productID: 39
+[Info   : Unity Log] Looking for a racked box that contains productID: 39
+[Info   : Unity Log] Going to target rack slot...
+[Info   : Unity Log] Checked a task with state of: IDLE
+[Info   : Unity Log] Looking for something to restock...
+[Info   : Unity Log] State turned to Restocking and resetted targets
+[Info   : Unity Log] Products found in inventory:
+[Info   : Unity Log] ProductID: 70
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 33
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 115
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 79
+[Info   : Unity Log] Product count: 0
+[Info   : Unity Log] ProductID: 86
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 2
+[Info   : Unity Log] Product count: 3
+[Info   : Unity Log] ProductID: 85
+[Info   : Unity Log] Product count: 5
+[Info   : Unity Log] ProductID: 8
+[Info   : Unity Log] Product count: 7
+[Info   : Unity Log] ProductID: 46
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 44
+[Info   : Unity Log] Product count: 9
+[Info   : Unity Log] ProductID: 39
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 146
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 55
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 99
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 78
+[Info   : Unity Log] Product count: 10
+[Info   : Unity Log] ProductID: 76
+[Info   : Unity Log] Product count: 12
+[Info   : Unity Log] ProductID: 77
+[Info   : Unity Log] Product count: 13
+[Info   : Unity Log] ProductID: 57
+[Info   : Unity Log] Product count: 14
+[Info   : Unity Log] ProductID: 83
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 82
+[Info   : Unity Log] Product count: 15
+[Info   : Unity Log] ProductID: 66
+[Info   : Unity Log] Product count: 16
+[Info   : Unity Log] ProductID: 37
+[Info   : Unity Log] Product count: 17
+[Info   : Unity Log] ProductID: 67
+[Info   : Unity Log] Product count: 18
+[Info   : Unity Log] ProductID: 151
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 128
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 144
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 9
+[Info   : Unity Log] Product count: 21
+[Info   : Unity Log] ProductID: 147
+[Info   : Unity Log] Product count: 22
+[Info   : Unity Log] ProductID: 34
+[Info   : Unity Log] Product count: 23
+[Info   : Unity Log] ProductID: 36
+[Info   : Unity Log] Product count: 24
+[Info   : Unity Log] ProductID: 132
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 24
+[Info   : Unity Log] Product count: 25
+[Info   : Unity Log] ProductID: 26
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 74
+[Info   : Unity Log] Product count: 26
+[Info   : Unity Log] ProductID: 119
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 73
+[Info   : Unity Log] Product count: 27
+[Info   : Unity Log] ProductID: 84
+[Info   : Unity Log] Product count: 28
+[Info   : Unity Log] ProductID: 62
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 65
+[Info   : Unity Log] Product count: 29
+[Info   : Unity Log] ProductID: 95
+[Info   : Unity Log] Product count: 30
+[Info   : Unity Log] ProductID: 64
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 138
+[Info   : Unity Log] Product count: 32
+[Info   : Unity Log] ProductID: 68
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 32
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 1
+[Info   : Unity Log] Product count: 33
+[Info   : Unity Log] ProductID: 117
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 7
+[Info   : Unity Log] Product count: 34
+[Info   : Unity Log] ProductID: 161
+[Info   : Unity Log] Product count: 36
+[Info   : Unity Log] ProductID: 30
+[Info   : Unity Log] Product count: 41
+[Info   : Unity Log] ProductID: 137
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 3
+[Info   : Unity Log] Product count: 43
+[Info   : Unity Log] ProductID: 139
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 135
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 136
+[Info   : Unity Log] Product count: 49
+[Info   : Unity Log] ProductID: 6
+[Info   : Unity Log] Product count: 57
+[Info   : Unity Log] Cheching productID: 70
+[Info   : Unity Log] Looking for available display slot to restock productID: 70
+[Info   : Unity Log] Found an available display slot for productID: 70
+[Info   : Unity Log] Occupied productID: 70
+[Info   : Unity Log] Looking for a racked box that contains productID: 70
+[Info   : Unity Log] There's no rack slot with a box for productID: 70
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 70. Looking for next product...
+[Info   : Unity Log] Cheching productID: 33
+[Info   : Unity Log] Looking for available display slot to restock productID: 33
+[Info   : Unity Log] Found an available display slot for productID: 33
+[Info   : Unity Log] Occupied productID: 33
+[Info   : Unity Log] Looking for a racked box that contains productID: 33
+[Info   : Unity Log] There's no rack slot with a box for productID: 33
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 33. Looking for next product...
+[Info   : Unity Log] Cheching productID: 115
+[Info   : Unity Log] Looking for available display slot to restock productID: 115
+[Info   : Unity Log] Found an available display slot for productID: 115
+[Info   : Unity Log] Occupied productID: 115
+[Info   : Unity Log] Looking for a racked box that contains productID: 115
+[Info   : Unity Log] There's no rack slot with a box for productID: 115
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 115. Looking for next product...
+[Info   : Unity Log] Cheching productID: 79
+[Info   : Unity Log] Looking for available display slot to restock productID: 79
+[Info   : Unity Log] Found an available display slot for productID: 79
+[Info   : Unity Log] Occupied productID: 79
+[Info   : Unity Log] Looking for a racked box that contains productID: 79
+[Info   : Unity Log] There's no rack slot with a box for productID: 79
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 79. Looking for next product...
+[Info   : Unity Log] Cheching productID: 86
+[Info   : Unity Log] Looking for available display slot to restock productID: 86
+[Info   : Unity Log] Found an available display slot for productID: 86
+[Info   : Unity Log] Occupied productID: 86
+[Info   : Unity Log] Looking for a racked box that contains productID: 86
+[Info   : Unity Log] There's no rack slot with a box for productID: 86
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 86. Looking for next product...
+[Info   : Unity Log] Cheching productID: 2
+[Info   : Unity Log] Looking for available display slot to restock productID: 2
+[Info   : Unity Log] Found an available display slot for productID: 2
+[Info   : Unity Log] Occupied productID: 2
+[Info   : Unity Log] Looking for a racked box that contains productID: 2
+[Info   : Unity Log] There's no rack slot with a box for productID: 2
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 2. Looking for next product...
+[Info   : Unity Log] Cheching productID: 85
+[Info   : Unity Log] Another restocker have occupied this product. Looking for next product...
+[Info   : Unity Log] Cheching productID: 8
+[Info   : Unity Log] Looking for available display slot to restock productID: 8
+[Info   : Unity Log] Found an available display slot for productID: 8
+[Info   : Unity Log] Occupied productID: 8
+[Info   : Unity Log] Looking for a racked box that contains productID: 8
+[Info   : Unity Log] There's no rack slot with a box for productID: 8
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 8. Looking for next product...
+[Info   : Unity Log] Cheching productID: 46
+[Info   : Unity Log] Looking for available display slot to restock productID: 46
+[Info   : Unity Log] Found an available display slot for productID: 46
+[Info   : Unity Log] Occupied productID: 46
+[Info   : Unity Log] Looking for a racked box that contains productID: 46
+[Info   : Unity Log] There's no rack slot with a box for productID: 46
+[Info   : Unity Log] That's why couldn't find any available rack slot for productID: 46. Looking for next product...
+[Info   : Unity Log] Cheching productID: 44
+[Info   : Unity Log] Another restocker have occupied this product. Looking for next product...
+[Info   : Unity Log] Cheching productID: 39
+[Info   : Unity Log] Another restocker have occupied this product. Looking for next product...
+[Info   : Unity Log] Cheching productID: 146
+[Info   : Unity Log] Looking for available display slot to restock productID: 146
+[Info   : Unity Log] Found an available display slot for productID: 146
+[Info   : Unity Log] Occupied productID: 146
+[Info   : Unity Log] Looking for a racked box that contains productID: 146
+[Info   : Unity Log] Going to target rack slot...
+[Info   : Unity Log] Arrived to target rack slot
+[Info   : Unity Log] Arrived rack slot is good to go
+[Info   : Unity Log] Checking if the target display slot is still available...
+[Info   : Unity Log] Picking up the box
+[Info   : Unity Log] Picked up the box
+[Info   : Unity Log] Started to go to display slots...
+[Info   : Unity Log] Going to target display slot
+[Message:MelonLoader] [Store_Customizer] MelonPreferences Saved to D:\SteamLibrary\steamapps\common\Supermarket Simulator\MLLoader\UserData\store_customizer.cfg
+[Warning: Unity Log] <color=#ff7337><color=#0099bc><b>DOTWEEN ► </b></color> SAFE MODE ►</color> DOTween's safe mode captured 1 errors. This is usually ok (it's what safe mode is there for) but if your game is encountering issues you should set Log Behaviour to Default in DOTween Utility Panel in order to get detailed warnings when an error is captured (consider that these errors are always on the user side).
+- 1 startup errors
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Error  : Unity Log] Singleton of type : CarColliderManager not found on scene
+[Error  : Unity Log] Singleton of type : CarColliderManager not found on scene
+[Error  : Unity Log] Singleton of type : ProductLicenseManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
+[Error  : Unity Log] Singleton of type : PriceManager not found on scene
