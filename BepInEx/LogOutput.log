@@ -248,12 +248,666 @@
 [Message: File Tree] |-- changelog.txt [1,36 KB]
 [Message: File Tree] |-- doorstop_config.ini [891 B]
 [Message: File Tree] |-- LICENSE [1,06 KB]
-[Message: File Tree] |-- README.md [2,99 KB]
+[Message: File Tree] |-- README.md [3,08 KB]
 [Message: File Tree] |-- Supermarket Simulator.exe [638,5 KB]
 [Message: File Tree] |-- UnityCrashHandler64.exe [1,07 MB]
 [Message: File Tree] |-- UnityPlayer.dll [28,09 MB]
 [Message: File Tree] |-- version.dll [24,5 KB]
 [Message: File Tree] \-- winhttp.dll [24,5 KB]
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [Jonx's_Essentials] System.NullReferenceException: Object reference not set to an instance of an object
+  at JonxEssentials.ComputerControl.SubscribeToDayCycleEvents () [0x00006] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.InitializeCampaignElements () [0x0000f] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at JonxEssentials.ComputerControl.OnUpdate () [0x00168] in <92033fdfee1f4a6ea9d0c58822cc8607>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
 [Message:MelonLoader] [Store_Customizer] [StoreCustomizer] OnSceneWasLoaded: Main Scene
 [Message:MelonLoader] [Store_Customizer] [StoreCustomizer] LoadedComputerObjects
 [Message:MelonLoader] [Store_Customizer] [StoreCustomizer] LoadedWallsObjects
@@ -283,4 +937,310 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 [Warning: Unity Log] You're attempting to despawn a null gameObject.
 [Warning: Unity Log] You're attempting to despawn a null gameObject.
 [Message:MelonLoader] [Price_Updater] Starting AutoPriceUpdater
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
+[Error  :MelonLoader] [EZ_Delivery] System.NullReferenceException: Object reference not set to an instance of an object
+  at EZDelivery.EZDelivery.PlaceBoxInRack (UnityEngine.GameObject player, BoxInteraction boxInteraction) [0x00032] in <90b7bd03222a449b936d97433858015b>:0 
+  at EZDelivery.EZDelivery.OnUpdate () [0x00086] in <90b7bd03222a449b936d97433858015b>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [EZ_Delivery] System.NullReferenceException: Object reference not set to an instance of an object
+  at EZDelivery.EZDelivery.PlaceBoxInRack (UnityEngine.GameObject player, BoxInteraction boxInteraction) [0x00032] in <90b7bd03222a449b936d97433858015b>:0 
+  at EZDelivery.EZDelivery.OnUpdate () [0x00086] in <90b7bd03222a449b936d97433858015b>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Error  :MelonLoader] [EZ_Delivery] System.NullReferenceException: Object reference not set to an instance of an object
+  at EZDelivery.EZDelivery.PlaceBoxInRack (UnityEngine.GameObject player, BoxInteraction boxInteraction) [0x00032] in <90b7bd03222a449b936d97433858015b>:0 
+  at EZDelivery.EZDelivery.OnUpdate () [0x00086] in <90b7bd03222a449b936d97433858015b>:0 
+  at MelonLoader.MelonEvent+<>c.<Invoke>b__1_0 (MelonLoader.LemonAction x) [0x00000] in <25dbf314fe56482eac5c1b90ce520669>:0 
+  at MelonLoader.MelonEventBase`1[T].Invoke (System.Action`1[T] delegateInvoker) [0x00024] in <25dbf314fe56482eac5c1b90ce520669>:0 
+[Info   : Unity Log] Final Count: 1
+[Info   : Unity Log] !!Text is null!!
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] False
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] This pool contained a null despawned clone, did you accidentally destroy it?
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] This pool contained a null despawned clone, did you accidentally destroy it?
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] This pool contained a null despawned clone, did you accidentally destroy it?
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] This pool contained a null despawned clone, did you accidentally destroy it?
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] False
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning:ChangeCurrency] True
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a gameObject that wasn't spawned from a pool (or the pool was destroyed).
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Warning: Unity Log] You're attempting to despawn a null gameObject.
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Info   : Unity Log] !!Text is null!!
+[Info   : Unity Log] !!Text is null!!
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Info   : Unity Log] !!Text is null!!
+[Info   : Unity Log] !!Text is null!!
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Price_Updater] Manually calling AutoPriceUpdater...
+[Message:MelonLoader] [Price_Updater] Prices updated! Total updated prices: 0
+[Message:MelonLoader] [Store_Customizer] [StoreCustomizer] OnSceneWasLoaded: Main Menu
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_rotation_Injected(UnityEngine.Transform,UnityEngine.Quaternion&)
+  at UnityEngine.Transform.set_rotation (UnityEngine.Quaternion value) [0x00000] in <a20b3695b7ce4017b7981f9d06962bd1>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass41_0.<DORotateQuaternion>b__1 (UnityEngine.Quaternion x) [0x00000] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.CustomPlugins.PureQuaternionPlugin.EvaluateAndApply (DG.Tweening.Plugins.Options.NoOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Quaternion startValue, UnityEngine.Quaternion changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0002e] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+
+
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <a20b3695b7ce4017b7981f9d06962bd1>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass45_0.<DOScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Plugins.Vector3Plugin.EvaluateAndApply (DG.Tweening.Plugins.Options.VectorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3 startValue, UnityEngine.Vector3 changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0022b] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+
+
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <a20b3695b7ce4017b7981f9d06962bd1>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass45_0.<DOScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Plugins.Vector3Plugin.EvaluateAndApply (DG.Tweening.Plugins.Options.VectorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3 startValue, UnityEngine.Vector3 changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0022b] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+
+
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <a20b3695b7ce4017b7981f9d06962bd1>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass45_0.<DOScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Plugins.Vector3Plugin.EvaluateAndApply (DG.Tweening.Plugins.Options.VectorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3 startValue, UnityEngine.Vector3 changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0022b] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+
+
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <a20b3695b7ce4017b7981f9d06962bd1>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass45_0.<DOScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Plugins.Vector3Plugin.EvaluateAndApply (DG.Tweening.Plugins.Options.VectorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3 startValue, UnityEngine.Vector3 changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0022b] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+
+
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Target or field is missing/null () ► 
+
+  at (wrapper managed-to-native) UnityEngine.Transform.set_localScale_Injected(UnityEngine.Transform,UnityEngine.Vector3&)
+  at UnityEngine.Transform.set_localScale (UnityEngine.Vector3 value) [0x00000] in <a20b3695b7ce4017b7981f9d06962bd1>:0 
+  at DG.Tweening.ShortcutExtensions+<>c__DisplayClass45_0.<DOScale>b__1 (UnityEngine.Vector3 x) [0x00000] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Plugins.Vector3Plugin.EvaluateAndApply (DG.Tweening.Plugins.Options.VectorOptions options, DG.Tweening.Tween t, System.Boolean isRelative, DG.Tweening.Core.DOGetter`1[T] getter, DG.Tweening.Core.DOSetter`1[T] setter, System.Single elapsed, UnityEngine.Vector3 startValue, UnityEngine.Vector3 changeValue, System.Single duration, System.Boolean usingInversePosition, System.Int32 newCompletedSteps, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x0022b] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+  at DG.Tweening.Core.TweenerCore`3[T1,T2,TPlugOptions].ApplyTween (System.Single prevPosition, System.Int32 prevCompletedLoops, System.Int32 newCompletedSteps, System.Boolean useInversePosition, DG.Tweening.Core.Enums.UpdateMode updateMode, DG.Tweening.Core.Enums.UpdateNotice updateNotice) [0x00043] in <fcc0bbf6bf4e430c91d4aa05736fc5c6>:0 
+
+
+[Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
 [Warning: Unity Log] <color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - ): the tween will now be killed ► 
