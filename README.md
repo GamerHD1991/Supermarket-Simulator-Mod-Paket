@@ -11,6 +11,10 @@ Die entpacken datein Im Spiel Ordner einfügen/rüberschieben <br>
 in der suche eingeben für savegame(im video erklärt) <br>
 %temp%
 
+## Hinweise
+### BetterSaveSystem
+Durch das Mod wird die Bildschirmgröße nicht mehr gespeichert, und sie muss jedes Mal erneut eingestellt werden. Drücken Sie zweimal Alt + Enter, um Ihre Größe wieder im Vollbildmodus und dreimal im Fenstermodus zu haben.
+
 ## Wichtige Hotkeys
 ### PortableScanner
 (F) Scannen <br>
@@ -58,6 +62,8 @@ Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert 
 (L) Um die kiste in der hand in lager zu schmeißen
 ### JonxEssentials
 Jonx' Essentials fügt dem Supermarkt-Simulator eine Vielzahl anpassbarer Verbesserungen hinzu.
+### BetterSaveSystem
+Müde davon, Dateien umbenennen zu müssen, um einen anderen Save zu laden? Suchen Sie nicht weiter, dieser Mod ermöglicht es Ihnen, neue speichern direkt aus dem Spiel zu laden und zu erstellen.
 
 
 # Wie und wo findet ihr den Onkel
