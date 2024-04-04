@@ -64,6 +64,10 @@ Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert 
 Jonx' Essentials fügt dem Supermarkt-Simulator eine Vielzahl anpassbarer Verbesserungen hinzu.
 ### BetterSaveSystem
 Müde davon, Dateien umbenennen zu müssen, um einen anderen Save zu laden? Suchen Sie nicht weiter, dieser Mod ermöglicht es Ihnen, neue speichern direkt aus dem Spiel zu laden und zu erstellen.
+### NarrowShelf
+Wenn Sie ein Regal an einem engen Ort hinzufügen müssen, können Sie jetzt! Dieses Regal nimmt die Hälfte des Standardregals ein!
+### NPCsCustomNames
+Benutzerdefinierte Namen für alle NPCs
 
 
 # Wie und wo findet ihr den Onkel
