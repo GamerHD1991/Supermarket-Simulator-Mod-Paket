@@ -68,7 +68,8 @@ Müde davon, Dateien umbenennen zu müssen, um einen anderen Save zu laden? Such
 Wenn Sie ein Regal an einem engen Ort hinzufügen müssen, können Sie jetzt! Dieses Regal nimmt die Hälfte des Standardregals ein!
 ### NPCsCustomNames
 Benutzerdefinierte Namen für alle NPCs
-
+### ResizableLabels
+Ermöglicht die Konfigurieren der Größe der Display- und Rack-Etiketten.
 
 # Wie und wo findet ihr den Onkel
 https://www.twitch.tv/official_deronkel <br>
