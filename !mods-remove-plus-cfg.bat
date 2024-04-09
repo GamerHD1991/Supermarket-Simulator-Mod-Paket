@@ -40,4 +40,4 @@ for /d %%D in (*) do (
 
 echo Alle unerwünschten Dateien und Ordner wurden gelöscht.
 
-pause
+exit

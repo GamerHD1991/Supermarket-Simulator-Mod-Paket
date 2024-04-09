@@ -46,4 +46,4 @@ for /f "delims=" %%I in ('dir /b /a ^| findstr /v /b /c:"Supermarket-Simulator-M
     )
 )
 
-pause
+exit

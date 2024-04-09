@@ -69,4 +69,4 @@ if exist "Supermarket-Simulator-Mod-Paket-main.zip" (
     echo Die ZIP-Datei konnte nicht heruntergeladen werden. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 )
 
-pause
+exit
