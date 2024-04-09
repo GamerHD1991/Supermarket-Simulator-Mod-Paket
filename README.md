@@ -13,12 +13,13 @@ in der suche eingeben für savegame(im video erklärt) <br>
 
 ## Hinweise
 ### BetterSaveSystem
-Durch das Mod wird die Bildschirmgröße nicht mehr gespeichert, und sie muss jedes Mal erneut eingestellt werden. Drücken Sie zweimal Alt + Enter, um Ihre Größe wieder im Vollbildmodus und dreimal im Fenstermodus zu haben.
+Durch diesen Mod kann es sein das die Bildschirmgröße nicht mehr gespeichert wird, und sie muss jedes Mal erneut eingestellt werden. Drücken Sie zweimal Alt + Enter, um Ihre Größe wieder im Vollbildmodus und dreimal im Fenstermodus zu haben.
 
 ## Wichtige Hotkeys
 ### PortableScanner
 (F) Scannen <br>
 (ALT + F) um das wieder zu enfernen aus dem warenkorb
+(STRG + F) Damit packt er die fehlenden kisten im warenkorb aus dem gescannten fach
 ### AutoPriceUpdater
 (STRG + R)
 ### PauseRestockers
@@ -32,6 +33,8 @@ Scrollrad: Beim Tragen der Box drehen <br>
 (Q & E) nach links und recht lehnen <br>
 (O) Öffnen/Schließen Geschäft/lager Tür <br>
 (U) Öffnen/Schließen Geschäft/lager Tür ohne den Store-Status zu beeinträchtigen
+### EasyScan
+(Rechte Maus gedrückt halten)
 
 ## Was ist alles Drauf
 ### PortableScanner
@@ -52,10 +55,6 @@ Verwenden Sie die Pausentaste, um Ihre Lagerhalter umzuschalten. Sie werden ihre
 Eine einfache Änderung, um den Checkout-Bildschirmen ein dunkles Thema zu geben (Kassen-, POS-Bildschirm und Kartenleser).
 ### NoMaxOrderLimit
 Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
-### EZDelivery
-Eine schnelle und einfache temporäre Lösung für Aufstockhalter, die Kisten nicht von der Straße in die Lagerung bringen!
-### DeliveryOrganizer
-Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
 ### DeliveryOrganizer
 Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
 ### EZDelivery
@@ -70,12 +69,26 @@ Wenn Sie ein Regal an einem engen Ort hinzufügen müssen, können Sie jetzt! Di
 Benutzerdefinierte Namen für alle NPCs
 ### ResizableLabels
 Ermöglicht die Konfigurieren der Größe der Display- und Rack-Etiketten.
+### NarrowRack
+Manchmal haben Sie einen winzigen Platz in Ihrem Lager, und ein schmales Gestell würde helfen. Nun, das ist deine Chance!
+Mit diesem Mod können Sie eine schmale Version des Standard-/Vanille-Racks kaufen.
+#### EasyScan
+Ermöglicht das schnelle Scannen aller Produkte an der Kasse, ohne ständig zu klicken
 
 # Wie und wo findet ihr den Onkel
 https://www.twitch.tv/official_deronkel <br>
 https://bit.ly/DerOnkelDiscord 
 <br><br>
 **Danke an GamerHD1991**
+<p align="">
+  <img width="500" src="/README/capsule_616x353.jpg">
+</p>
+
+
+lasst hier ein Follow
+https://www.twitch.tv/gamerhd1991 
+oder sagt hier danke
+https://streamelements.com/gamerhd1991/tip
 <p align="">
   <img width="500" src="/README/capsule_616x353.jpg">
 </p>
