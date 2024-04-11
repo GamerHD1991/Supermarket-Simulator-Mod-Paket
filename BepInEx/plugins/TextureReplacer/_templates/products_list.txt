@@ -1,0 +1,326 @@
+1_Brand:Fess
+1_Name:Beer Blonde Ale - 6 PACK
+2_Brand:Fess
+2_Name:Beer Blonde Ale - Keg
+3_Brand:Fess
+3_Name:Beer Blonde Ale
+4_Brand:BK
+4_Name:Beer Blonde Ale - 6 PACK
+5_Brand:Dehl
+5_Name:Beer Blonde Ale - Keg
+6_Brand:BK
+6_Name:Beer Blonde Ale
+7_Brand:Teochew
+7_Name:Beer Lager - 6 PACK
+8_Brand:Teochew
+8_Name:Beer Lager - Keg
+9_Brand:Teochew 
+9_Name:Beer Lager 
+10_Brand:Jaja Vevel
+10_Name:Bleach
+11_Brand:WC Boeff
+11_Name:Bleach
+12_Brand:Abc
+12_Name:Book
+13_Brand:Colors
+13_Name:Book
+14_Brand:Donnine
+14_Name:Book
+15_Brand:Electromagnetic Field
+15_Name:Book
+16_Brand:I Won't Share
+16_Name:Book
+17_Brand:Krok
+17_Name:Book
+18_Brand:Mother And Child
+18_Name:Book
+19_Brand:Once Upon A Time
+19_Name:Book
+20_Brand:Piticha
+20_Name:Book
+21_Brand:The Surprise
+21_Name:Book
+22_Brand:Vintage Storybook
+22_Name:Book
+23_Brand:Wombat
+23_Name:Book
+24_Brand:Aotte
+24_Name:Bottled Water
+25_Brand:Paysans
+25_Name:Butter
+26_Brand:Bon Papa
+26_Name:Cake
+27_Brand:Gerbe
+27_Name:Cake
+28_Brand:Marbré
+28_Name:Cake
+29_Brand:Prairie
+29_Name:Cake
+30_Brand:Pépites
+30_Name:Cake
+31_Brand:St Michmich
+31_Name:Cake
+32_Brand:Bonbek
+32_Name:Candy
+33_Brand:Chokipik
+33_Name:Cereal
+34_Brand:Crispy Chibi
+34_Name:Cereal
+35_Brand:Honey Bees
+35_Name:Cereal
+36_Brand:Don Bernardo
+36_Name:Cheese Mozarella
+37_Brand:Don Bernardo
+37_Name:Cheese Parmesan
+38_Brand:Eros
+38_Name:Cheese Parmesan
+39_Brand:Comté
+39_Name:Cheese
+40_Brand:Gruyere
+40_Name:Cheese
+41_Brand:Mimolette
+41_Name:Cheese
+42_Brand:Mwef
+42_Name:Chicken
+43_Brand:Chipos
+43_Name:Chips
+44_Brand:Covidos
+44_Name:Chips
+45_Brand:Vin's
+45_Name:Chips
+46_Brand:Chocotte
+46_Name:Chocolate Bar
+47_Brand:Denorme
+47_Name:Chocolate Bar
+48_Brand:Boudain
+48_Name:Chocolate Powder
+49_Brand:Patatartine
+49_Name:Chocolate Spread
+50_Brand:Kilemol
+50_Name:Cleaner
+51_Brand:Le Triangle
+51_Name:Cleaner
+52_Brand:Touprop
+52_Name:Cleaner
+53_Brand:Wesh
+53_Name:Cleaner
+54_Brand:Etron
+54_Name:Clotted Cream
+55_Brand:Narvalo
+55_Name:Coffee Dark Roast
+56_Brand:Narvalo
+56_Name:Coffee Light Roast
+57_Brand:Narvalo
+57_Name:Coffee Medium Roast
+58_Brand:Sans
+58_Name:Crab Stick
+59_Brand:Boum
+59_Name:Dishwasher Tablet
+60_Brand:Cemagik
+60_Name:Dishwasher Tablet
+61_Brand:Cleandish
+61_Name:Dishwasher Tablet
+62_Brand:Bio
+62_Name:Eggs - 8 Pack
+63_Brand:Savion
+63_Name:Hand Soap
+64_Brand:Hone
+64_Name:Honey
+65_Brand:Bibi
+65_Name:Houmus
+66_Brand:Bourlait
+66_Name:Milk
+67_Brand:Bio Juice
+67_Name:Orange Juice
+68_Brand:PB's
+68_Name:Peanut Butter
+69_Brand:Kaya
+69_Name:Shampoo
+70_Brand:Ron's
+70_Name:Sliced Bread
+71_Brand:Cola
+71_Name:Soda Can - 6 Pack
+72_Brand:Zap
+72_Name:Soda Can - 6 Pack
+73_Brand:Cola
+73_Name:Soda
+74_Brand:Zap
+74_Name:Soda
+75_Brand:Poudou
+75_Name:Toiletpaper
+76_Brand:Stark
+76_Name:Tuna
+77_Brand:Eay
+77_Name:Vodka
+78_Brand:Magnat
+78_Name:Vodka
+79_Brand:Grand Marnier
+79_Name:Whiskey
+80_Brand:Jack Sublett
+80_Name:Whiskey
+81_Brand:Japanese
+81_Name:Whisky
+82_Brand:Chebon
+82_Name:Wine
+83_Brand:Kraftung
+83_Name:Flour
+84_Brand:Lespieds
+84_Name:Oil
+85_Brand:Panzati
+85_Name:Pasta
+86_Brand:Bio Juice
+86_Name:Apple Juice
+87_Brand:Fort-lacs
+87_Name:Bottled Water
+88_Brand:Montcuq
+88_Name:Bottled Water
+89_Brand:Miaoumiam
+89_Name:Cat Food
+90_Brand:Patpat
+90_Name:Cat Food
+91_Brand:Yamo
+91_Name:Cleaner
+92_Brand:Sapu
+92_Name:Dish Soap Durian
+93_Brand:Mouss
+93_Name:Dish Soap Lemon
+94_Brand:Patpat
+94_Name:Dog Food
+95_Brand:Bio
+95_Name:Eggs-4 Pack
+96_Brand:Bio
+96_Name:Eggs-12 Pack
+97_Brand:Souplesse
+97_Name:Fabric Softener
+98_Brand:Toudou
+98_Name:Fabric Softener
+99_Brand:Farine
+99_Name:Flour
+100_Brand:Sublett's
+100_Name:Flour
+101_Brand:Vandame's
+101_Name:French Fries
+102_Brand:Prypiat
+102_Name:Galette Ham&Cheese
+103_Brand:MrBean
+103_Name:Green Beans
+104_Brand:Bovora
+104_Name:Ground Beef
+105_Brand:Ronpoint
+105_Name:Ham Pastry
+106_Brand:B&K
+106_Name:Ham
+107_Brand:Hothot
+107_Name:Hot Sauce
+108_Brand:MaxiCone
+108_Name:Icecream Chocolate
+109_Brand:MaxiCone
+109_Name:Icecream Vanilla
+110_Brand:Bonbek
+110_Name:Icecream
+111_Brand:Kekette
+111_Name:Ketchup
+112_Brand:Ronpoint
+112_Name:Lasagne
+113_Brand:Puray
+113_Name:Mashed Potatoes
+114_Brand:Yoyo
+114_Name:Mayonnaise
+115_Brand:Labol
+115_Name:Milk - 6 Pack
+116_Brand:Ronpoint
+116_Name:Moussaka
+117_Brand:Tupiges
+117_Name:Olive Oil
+118_Brand:Parillo
+118_Name:Pasta Penne
+119_Brand:Elo
+119_Name:Pasta Spaghetti
+120_Brand:Lustupacru
+120_Name:Pasta Elbows
+121_Brand:Afyon
+121_Name:Pepper
+122_Brand:ChezzyPizz
+122_Name:Pizza Cheddar
+123_Brand:DeNiro
+123_Name:Pizza Mixed
+124_Brand:Bigtony
+124_Name:Pizza
+125_Brand:Miam
+125_Name:Potato Bag
+126_Brand:Spok
+126_Name:Potato Pops
+127_Brand:Sapore
+127_Name:Proscuito
+128_Brand:Lustupacru
+128_Name:Rice Basmati
+129_Brand:Elo
+129_Name:Rice
+130_Brand:UncleTony's
+130_Name:Rice
+131_Brand:NordicHarbor
+131_Name:Salmon
+132_Brand:Labalaine
+132_Name:Salt
+133_Brand:Ron's
+133_Name:Sandwich Bread
+134_Brand:Prypiat
+134_Name:Scallop Gratin
+135_Brand:JusTsistu
+135_Name:Soda
+136_Brand:Koujeima
+136_Name:Soda
+137_Brand:Pulp
+137_Name:Soda
+138_Brand:Ropico
+138_Name:Soda
+139_Brand:Turko
+139_Name:Soda
+140_Brand:Bovora
+140_Name:Steak
+141_Brand:Susu
+141_Name:Sugar Brown
+142_Brand:Daron
+142_Name:Sugar Cane
+144_Brand:Daron
+144_Name:Sugar Light Brown
+145_Brand:Boully
+145_Name:Sugar Powdered
+146_Brand:Pablo
+146_Name:Sugar Powdered
+147_Brand:Susu
+147_Name:Sugar Powdered
+148_Brand:Daron
+148_Name:Sugar
+149_Brand:Ulego
+149_Name:Sushi Large
+150_Brand:Ulego
+150_Name:Sushi Small
+151_Brand:TeaPalace
+151_Name:Tea Black
+152_Brand:TeaPalace
+152_Name:Tea Green
+153_Brand:Bidet
+153_Name:Toiletpaper
+154_Brand:Compact
+154_Name:Paper Towel
+155_Brand:Petus
+155_Name:Toiletpaper
+156_Brand:Signoulos
+156_Name:Toothpaste
+157_Brand:Bovora
+157_Name:Veal Chop
+158_Brand:Ege
+158_Name:Veggie Mix
+159_Brand:Heng
+159_Name:Wine
+160_Brand:Pouilleux
+160_Name:Wine
+161_Brand:Frügen
+161_Name:Yoghurt
+162_Brand:Madone
+162_Name:Yoghurt
+163_Brand:Yowp
+163_Name:Yoghurt
+164_Brand:Bovora
+164_Name:Chicken Leg
