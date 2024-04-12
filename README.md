@@ -51,31 +51,32 @@ Passen Sie Ihren Laden an, wie Sie möchten, von der Farbe der Wände bis zum Te
 Verwenden Sie die Pausentaste, um Ihre Lagerhalter umzuschalten. Sie werden ihre aktuelle Aufgabe beenden und dann an der Vorderseite des Ladens warten, bis Sie die Pausentaste erneut drücken.
 ### ChangeCurrency
 Ändern Sie die angezeigte Währung im Spiel!
-### CheckoutDarkTheme
-Eine einfache Änderung, um den Checkout-Bildschirmen ein dunkles Thema zu geben (Kassen-, POS-Bildschirm und Kartenleser).
+### CheckoutTheme
+Eine einfache Änderung, um den Checkout-Bildschirmen ein benutzerdefiniertes Thema zu geben (Kassen, POS-Bildschirm und Kartenleser).
 ### NoMaxOrderLimit
 Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
 ### DeliveryOrganizer
 Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
 ### EZDelivery
-(L) Um die kiste in der hand in lager zu schmeißen
-### JonxEssentials
-Jonx' Essentials fügt dem Supermarkt-Simulator eine Vielzahl anpassbarer Verbesserungen hinzu.
+(L) Um die kiste in der hand in lager zu schmeißen.
 ### BetterSaveSystem
 Müde davon, Dateien umbenennen zu müssen, um einen anderen Save zu laden? Suchen Sie nicht weiter, dieser Mod ermöglicht es Ihnen, neue speichern direkt aus dem Spiel zu laden und zu erstellen.
 ### NarrowShelf
 Wenn Sie ein Regal an einem engen Ort hinzufügen müssen, können Sie jetzt! Dieses Regal nimmt die Hälfte des Standardregals ein!
 ### NPCsCustomNames
-Benutzerdefinierte Namen für alle NPCs
+Benutzerdefinierte Namen für alle NPCs.
 ### ResizableLabels
 Ermöglicht die Konfigurieren der Größe der Display- und Rack-Etiketten.
 ### NarrowRack
 Manchmal haben Sie einen winzigen Platz in Ihrem Lager, und ein schmales Gestell würde helfen. Nun, das ist deine Chance!
 Mit diesem Mod können Sie eine schmale Version des Standard-/Vanille-Racks kaufen.
-#### EasyScan
-Ermöglicht das schnelle Scannen aller Produkte an der Kasse, ohne ständig zu klicken
+### EasyScan
+Ermöglicht das schnelle Scannen aller Produkte an der Kasse, ohne ständig zu klicken.
+### Refill Storage
+Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen? Diese Mod bereitet Ihren Warenkorb mit einem einfachen Klick.
+### Einige texturen verbessert
 
-# Wie und wo findet ihr den Onkel
+# Der Mod ist endstanden durch der Community Vom Onkel
 https://www.twitch.tv/official_deronkel <br>
 https://bit.ly/DerOnkelDiscord 
 <br><br>
@@ -85,13 +86,13 @@ https://bit.ly/DerOnkelDiscord
 </p>
 
 
-lasst hier ein Follow
-https://www.twitch.tv/gamerhd1991 
-oder sagt hier danke
-https://streamelements.com/gamerhd1991/tip
+lasst hier ein Follow <br>
+https://www.twitch.tv/gamerhd1991 <br>
+oder sagt hier danke <br>
+https://streamelements.com/gamerhd1991/tip <br>
 <p align="">
   <img width="500" src="/README/capsule_616x353.jpg">
-</p>
+</p> <br>
 
 by GamerHD1991 <br>
 https://www.twitch.tv/gamerhd1991
