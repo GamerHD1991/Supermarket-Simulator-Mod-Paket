@@ -53,8 +53,6 @@ Verwenden Sie die Pausentaste, um Ihre Lagerhalter umzuschalten. Sie werden ihre
 Ändern Sie die angezeigte Währung im Spiel!
 ### CheckoutTheme
 Eine einfache Änderung, um den Checkout-Bildschirmen ein benutzerdefiniertes Thema zu geben (Kassen, POS-Bildschirm und Kartenleser).
-### NoMaxOrderLimit
-Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
 ### DeliveryOrganizer
 Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert und Physik-induziertes Chaos verhindert. Organisieren und stabilisieren Sie mühelos Ihr Spielfeld! Kein Bestellkauflimit enthalten!
 ### EZDelivery
@@ -73,7 +71,8 @@ Mit diesem Mod können Sie eine schmale Version des Standard-/Vanille-Racks kauf
 ### EasyScan
 Ermöglicht das schnelle Scannen aller Produkte an der Kasse, ohne ständig zu klicken.
 ### Refill Storage
-Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen? Diese Mod bereitet Ihren Warenkorb mit einem einfachen Klick.
+Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen? Diese Mod bereitet Ihren Warenkorb mit einem einfachen Klick. <br>
+Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
 ### Einige texturen verbessert
 
 # Der Mod ist endstanden durch der Community Vom Onkel
