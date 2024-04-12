@@ -80,12 +80,11 @@ Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen?
 https://www.twitch.tv/official_deronkel <br>
 https://bit.ly/DerOnkelDiscord 
 <br><br>
-**Danke an GamerHD1991**
 <p align="">
   <img width="500" src="/README/onkel.jpg">
 </p>
 
-
+### Zusammengestellt von GamerHD1991
 lasst hier ein Follow <br>
 https://www.twitch.tv/gamerhd1991 <br>
 oder sagt hier danke <br>
