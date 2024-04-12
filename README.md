@@ -77,6 +77,7 @@ Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen?
 ### Einige texturen verbessert
 
 # Der Mod ist endstanden durch der Community Vom Onkel
+### lasst hier ein Follow <br>
 https://www.twitch.tv/official_deronkel <br>
 https://bit.ly/DerOnkelDiscord 
 <br><br>
@@ -85,9 +86,9 @@ https://bit.ly/DerOnkelDiscord
 </p>
 
 # Zusammengestellt von GamerHD1991
-lasst hier ein Follow <br>
+### lasst hier ein Follow <br>
 https://www.twitch.tv/gamerhd1991 <br>
-oder sagt hier danke <br>
+### oder sagt hier danke <br>
 https://streamelements.com/gamerhd1991/tip <br>
 <p align="">
   <img width="500" src="/README/capsule_616x353.jpg">
