@@ -82,7 +82,7 @@ https://bit.ly/DerOnkelDiscord
 <br><br>
 **Danke an GamerHD1991**
 <p align="">
-  <img width="500" src="/README/capsule_616x353.jpg">
+  <img width="500" src="/README/onkel.jpg">
 </p>
 
 
