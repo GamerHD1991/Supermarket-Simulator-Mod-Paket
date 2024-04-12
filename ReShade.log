@@ -1,15 +1,130 @@
-
-If you are reading this after launching the game at least once, it likely means ReShade was not loaded by the game.
-
-In that event here are some steps you can try to resolve this:
-
-1) Make sure this file and the related DLL are really in the same directory as the game executable.
-   If that is the case and it does not work regardless, check if there is a 'bin' directory, move them there and try again.
-
-2) Try running the game with elevated user permissions by doing a right click on its executable and choosing 'Run as administrator'.
-
-3) If the game crashes, try disabling all game overlays (like Origin), recording software (like Fraps), FPS displaying software,
-   GPU overclocking and tweaking software and other proxy DLLs (like ENB, Helix or Umod).
-
-4) If none of the above helps, you can get support on the forums at https://reshade.me/forum. But search for your problem before
-   creating a new topic, as somebody else may have already found a solution.
+07:41:51:593 [62540] | INFO  | Initializing crosire's ReShade version '6.1.0.1836' (64-bit) loaded from "D:\SteamLibrary\steamapps\common\Supermarket Simulator\dxgi.dll" into "D:\SteamLibrary\steamapps\common\Supermarket Simulator\Supermarket Simulator.exe" (0xade84c76) ...
+07:41:51:650 [62540] | INFO  | Registering hooks for "user32.dll" ...
+07:41:51:651 [62540] | INFO  | > Libraries loaded.
+07:41:51:651 [62540] | INFO  | > Found 14 match(es). Installing ...
+07:41:51:707 [62540] | INFO  | Registering hooks for "C:\windows\system32\dinput.dll" ...
+07:41:51:708 [62540] | INFO  | > Delayed.
+07:41:51:708 [62540] | INFO  | Registering hooks for "ws2_32.dll" ...
+07:41:51:708 [62540] | INFO  | > Libraries loaded.
+07:41:51:708 [62540] | INFO  | > Found 8 match(es). Installing ...
+07:41:51:764 [62540] | INFO  | Registering hooks for "C:\windows\system32\d2d1.dll" ...
+07:41:51:765 [62540] | INFO  | > Delayed.
+07:41:51:765 [62540] | INFO  | Registering hooks for "C:\windows\system32\d3d9.dll" ...
+07:41:51:765 [62540] | INFO  | > Delayed.
+07:41:51:765 [62540] | INFO  | Registering hooks for "C:\windows\system32\d3d10.dll" ...
+07:41:51:766 [62540] | INFO  | > Delayed.
+07:41:51:766 [62540] | INFO  | Registering hooks for "C:\windows\system32\d3d10_1.dll" ...
+07:41:51:766 [62540] | INFO  | > Delayed.
+07:41:51:766 [62540] | INFO  | Registering hooks for "C:\windows\system32\d3d11.dll" ...
+07:41:51:766 [62540] | INFO  | > Libraries loaded.
+07:41:51:766 [62540] | INFO  | > Found 3 match(es). Installing ...
+07:41:51:821 [62540] | INFO  | Registering hooks for "C:\windows\system32\d3d12.dll" ...
+07:41:51:821 [62540] | INFO  | > Delayed.
+07:41:51:821 [62540] | INFO  | Registering hooks for "C:\windows\system32\dxgi.dll" ...
+07:41:51:822 [62540] | INFO  | > Delayed until first call to an exported function.
+07:41:51:822 [62540] | INFO  | Registering hooks for "vrclient_x64.dll" ...
+07:41:51:822 [62540] | INFO  | > Delayed.
+07:41:51:822 [62540] | INFO  | Initialized.
+07:41:51:876 [62540] | INFO  | Redirecting CreateDXGIFactory2(Flags = 0, riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 00007FFFB82AD330) ...
+07:41:51:877 [62540] | INFO  | Installing export hooks for "C:\windows\system32\dxgi.dll" ...
+07:41:51:877 [62540] | INFO  | > Found 5 match(es). Installing ...
+07:41:51:881 [62540] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 000001798D3B4810, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 00000178700179E0, FeatureLevels = 4, SDKVersion = 7, ppDevice = 00007FFFB82AD208, pFeatureLevel = 00007FFFB8203A00, ppImmediateContext = 00007FFFB82AD318) ...
+07:41:51:881 [62540] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+07:41:51:881 [62540] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 000001798D3B4810, DriverType = 0, Software = 0000000000000000, Flags = 0x20, pFeatureLevels = 00000178700179E0, FeatureLevels = 4, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 00007FFFB82AD208, pFeatureLevel = 00007FFFB8203A00, ppImmediateContext = 00007FFFB82AD318) ...
+07:41:51:966 [62540] | INFO  | Using feature level 0xb100.
+07:41:51:966 [62540] | INFO  | Searching for add-ons (*.addon, *.addon64) in "D:\SteamLibrary\steamapps\common\Supermarket Simulator" ...
+07:41:51:966 [62540] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 00000063175AF2B8) ...
+07:41:52:792 [62540] | INFO  | Redirecting D3D11CreateDevice(pAdapter = 000001798D3B4810, DriverType = 0, Software = 0000000000000000, Flags = 0x820, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, ppDevice = 00007FFFB82C1560, pFeatureLevel = 0000000000000000, ppImmediateContext = 00007FFFB82C1568) ...
+07:41:52:792 [62540] | INFO  | > Passing on to D3D11CreateDeviceAndSwapChain:
+07:41:52:792 [62540] | INFO  | Redirecting D3D11CreateDeviceAndSwapChain(pAdapter = 000001798D3B4810, DriverType = 0, Software = 0000000000000000, Flags = 0x820, pFeatureLevels = 0000000000000000, FeatureLevels = 0, SDKVersion = 7, pSwapChainDesc = 0000000000000000, ppSwapChain = 0000000000000000, ppDevice = 00007FFFB82C1560, pFeatureLevel = 0000000000000000, ppImmediateContext = 00007FFFB82C1568) ...
+07:41:52:827 [62540] | INFO  | Using feature level 0xb000.
+07:41:53:337 [62540] | INFO  | Redirecting CreateDXGIFactory1(riid = {7B7166EC-21C7-44AE-B21A-C9AE321AE369}, ppFactory = 00000063175AF418) ...
+07:41:53:343 [62540] | INFO  | Redirecting IDXGIFactory2::CreateSwapChainForHwnd(this = 000001798CAA6110, pDevice = 000001798D760EE8, hWnd = 00000000020A120C, pDesc = 00000063175AF410, pFullscreenDesc = 00000063175AF470, pRestrictToOutput = 0000000000000000, ppSwapChain = 00000063175AF400) ...
+07:41:53:344 [62540] | INFO  | > Dumping swap chain description:
+07:41:53:344 [62540] | INFO  |   +-----------------------------------------+-----------------------------------------+
+07:41:53:344 [62540] | INFO  |   | Parameter                               | Value                                   |
+07:41:53:344 [62540] | INFO  |   +-----------------------------------------+-----------------------------------------+
+07:41:53:344 [62540] | INFO  |   | Width                                   | 2560                                    |
+07:41:53:344 [62540] | INFO  |   | Height                                  | 1440                                    |
+07:41:53:344 [62540] | INFO  |   | RefreshRate                             | 0                   1                   |
+07:41:53:344 [62540] | INFO  |   | Format                                  | DXGI_FORMAT_R8G8B8A8_UNORM              |
+07:41:53:344 [62540] | INFO  |   | Stereo                                  | FALSE                                   |
+07:41:53:344 [62540] | INFO  |   | ScanlineOrdering                        | 0                                       |
+07:41:53:345 [62540] | INFO  |   | Scaling                                 | 0                                       |
+07:41:53:345 [62540] | INFO  |   | SampleCount                             | 1                                       |
+07:41:53:345 [62540] | INFO  |   | SampleQuality                           | 0                                       |
+07:41:53:345 [62540] | INFO  |   | BufferUsage                             | 0x30                                    |
+07:41:53:345 [62540] | INFO  |   | BufferCount                             | 2                                       |
+07:41:53:345 [62540] | INFO  |   | Windowed                                | TRUE                                    |
+07:41:53:345 [62540] | INFO  |   | SwapEffect                              | 3                                       |
+07:41:53:345 [62540] | INFO  |   | AlphaMode                               | 0                                       |
+07:41:53:346 [62540] | INFO  |   | Flags                                   | 0x842                                   |
+07:41:53:346 [62540] | INFO  |   +-----------------------------------------+-----------------------------------------+
+07:41:53:350 [62540] | INFO  | Running on NVIDIA GeForce RTX 3080 Driver 551.86.
+07:41:53:504 [62540] | INFO  | Recreated runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:53:505 [62540] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 0000017A1B281950, BufferCount = 2, Width = 2560, Height = 1440, NewFormat = 28, SwapChainFlags = 0x842) ...
+07:41:53:505 [62540] | INFO  | Destroyed runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:53:507 [62540] | INFO  | Recreated runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:55:583 [16096] | WARN  | Ignoring LoadLibrary("api-ms-win-appmodel-runtime-l1-1-2") call to avoid possible deadlock.
+07:41:55:583 [56696] | WARN  | Ignoring LoadLibrary("api-ms-win-appmodel-runtime-l1-1-2") call to avoid possible deadlock.
+07:41:55:584 [68188] | WARN  | Ignoring LoadLibrary("api-ms-win-appmodel-runtime-l1-1-2") call to avoid possible deadlock.
+07:41:55:584 [15856] | WARN  | Ignoring LoadLibrary("api-ms-win-appmodel-runtime-l1-1-2") call to avoid possible deadlock.
+07:41:55:585 [71380] | WARN  | Ignoring LoadLibrary("api-ms-win-appmodel-runtime-l1-1-2") call to avoid possible deadlock.
+07:41:55:585 [58724] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LumaSharpen.fx" in 0 s.
+07:41:55:586 [60644] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FXAA.fx" in 0.001 s.
+07:41:55:586 [62736] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\AstrayFX\Clarity.fx" in 0.002 s.
+07:41:55:586 [10436] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LUT.fx" in 0 s.
+07:41:55:588 [68188] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Daltonize.fx" in 0 s.
+07:41:55:588 [16096] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\DisplayDepth.fx" in 0.001 s.
+07:41:55:588 [56696] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FakeHDR.fx" in 0.001 s.
+07:41:55:588 [15856] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Deband.fx" in 0.001 s.
+07:41:55:588 [71380] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\UIMask.fx" in 0.001 s.
+07:41:56:999 [62540] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 0000017A1B281950, BufferCount = 2, Width = 2560, Height = 1440, NewFormat = 28, SwapChainFlags = 0x842) ...
+07:41:57:003 [62540] | INFO  | Destroyed runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:57:007 [62540] | INFO  | Recreated runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:57:029 [48560] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Daltonize.fx" in 0 s.
+07:41:57:029 [71060] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Deband.fx" in 0.001 s.
+07:41:57:030 [43820] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FakeHDR.fx" in 0.001 s.
+07:41:57:030 [71804] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\UIMask.fx" in 0.001 s.
+07:41:57:030 [59764] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LumaSharpen.fx" in 0.001 s.
+07:41:57:030 [73008] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LUT.fx" in 0.001 s.
+07:41:57:030 [56568] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\DisplayDepth.fx" in 0.002 s.
+07:41:57:030 [39460] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\AstrayFX\Clarity.fx" in 0.002 s.
+07:41:57:031 [65640] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FXAA.fx" in 0.002 s.
+07:41:58:498 [62540] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 0000017A1B281950, BufferCount = 2, Width = 1280, Height = 1440, NewFormat = 28, SwapChainFlags = 0x842) ...
+07:41:58:502 [62540] | INFO  | Destroyed runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:58:504 [62540] | INFO  | Recreated runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:58:513 [65692] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Daltonize.fx" in 0.001 s.
+07:41:58:513 [65916] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Deband.fx" in 0.001 s.
+07:41:58:513 [70760] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FakeHDR.fx" in 0.001 s.
+07:41:58:513 [52260] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LumaSharpen.fx" in 0.001 s.
+07:41:58:513 [69984] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\DisplayDepth.fx" in 0.001 s.
+07:41:58:513 [61612] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LUT.fx" in 0.001 s.
+07:41:58:513 [62860] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\UIMask.fx" in 0.001 s.
+07:41:58:515 [56596] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FXAA.fx" in 0.002 s.
+07:41:58:515 [30164] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\AstrayFX\Clarity.fx" in 0.002 s.
+07:41:59:528 [62540] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 0000017A1B281950, BufferCount = 2, Width = 2560, Height = 1440, NewFormat = 28, SwapChainFlags = 0x842) ...
+07:41:59:528 [62540] | INFO  | Destroyed runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:59:530 [62540] | INFO  | Recreated runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:41:59:541 [63672] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Daltonize.fx" in 0.001 s.
+07:41:59:541 [66340] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Deband.fx" in 0.001 s.
+07:41:59:541 [68720] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LUT.fx" in 0.001 s.
+07:41:59:541 [25256] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FakeHDR.fx" in 0.001 s.
+07:41:59:541 [66572] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LumaSharpen.fx" in 0.001 s.
+07:41:59:541 [71188] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\DisplayDepth.fx" in 0.002 s.
+07:41:59:541 [63972] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\UIMask.fx" in 0.001 s.
+07:41:59:543 [66920] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FXAA.fx" in 0.003 s.
+07:41:59:543 [61552] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\AstrayFX\Clarity.fx" in 0.003 s.
+07:42:02:058 [62540] | INFO  | Redirecting RegisterClassExW(lpWndClassEx = 00000063175AE1A0 { "SteamWinsockInitFakeClass_1", style = 0 }) ...
+07:42:04:261 [62540] | INFO  | Redirecting IDXGISwapChain::ResizeBuffers(this = 0000017A1B281950, BufferCount = 2, Width = 2560, Height = 1440, NewFormat = 28, SwapChainFlags = 0x842) ...
+07:42:04:261 [62540] | INFO  | Destroyed runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:42:04:264 [62540] | INFO  | Recreated runtime environment on runtime 0000017A1B271300 ("D:\SteamLibrary\steamapps\common\Supermarket Simulator\ReShade.ini").
+07:42:04:306 [67188] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Daltonize.fx" in 0.001 s.
+07:42:04:307 [70264] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FakeHDR.fx" in 0.001 s.
+07:42:04:307 [66296] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\Deband.fx" in 0.002 s.
+07:42:04:307 [67020] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\DisplayDepth.fx" in 0.002 s.
+07:42:04:307 [54724] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LUT.fx" in 0.002 s.
+07:42:04:307 [59264] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\UIMask.fx" in 0.001 s.
+07:42:04:307 [49256] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\LumaSharpen.fx" in 0.001 s.
+07:42:04:308 [13652] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\AstrayFX\Clarity.fx" in 0.003 s.
+07:42:04:308 [71156] | INFO  | Successfully compiled "D:\SteamLibrary\steamapps\common\Supermarket Simulator\reshade-shaders\Shaders\FXAA.fx" in 0.002 s.
