@@ -84,7 +84,7 @@ https://bit.ly/DerOnkelDiscord
   <img width="500" src="/README/onkel.jpg">
 </p>
 
-### Zusammengestellt von GamerHD1991
+# Zusammengestellt von GamerHD1991
 lasst hier ein Follow <br>
 https://www.twitch.tv/gamerhd1991 <br>
 oder sagt hier danke <br>
