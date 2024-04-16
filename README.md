@@ -39,8 +39,6 @@ Scrollrad: Beim Tragen der Box drehen <br>
 ## Was ist alles Drauf
 ### PortableScanner
 Fügen Sie Ihrem Warenkorb ein Produkt aus der Ferne hinzu, indem Sie die mittlere Maustaste auf einem Produktetikett verwenden.
-### QuieterCars
-Mit diesem Mod können Sie die Autos leiser machen. Schließlich etwas Frieden.
 ### UnrestrictedPlacement
 Wollten Sie schon immer etwas irgendwo platzieren, aber hatte das Spiel Ihnen nein gesagt? Nun nicht mehr!
 ### AutoPriceUpdater
@@ -73,6 +71,8 @@ Ermöglicht das schnelle Scannen aller Produkte an der Kasse, ohne ständig zu k
 ### Refill Storage
 Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen? Diese Mod bereitet Ihren Warenkorb mit einem einfachen Klick. <br>
 Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
+###  Twitch Integration
+Sind Sie ein Twitch-Streamer? Möchten Sie, dass Ihre Zuschauer Kunden, Kassierer, Aufstockungser oder Fußgänger im Spiel sind? Dann ist dieser Mod genau das Richtige für Sie! Mit diesem Mod können Ihre Twitch-Zuschauer im Spiel erscheinen.
 ### Einige texturen verbessert
 
 # Der Mod ist endstanden durch der Community Vom Onkel
