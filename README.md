@@ -73,7 +73,11 @@ Sind Sie es leid, durch die Regale zu laufen und zu bestellen, was Sie brauchen?
 Entfernt das Standardlimit von 10 Artikeln bei der Bestellung vom Marktplatz.
 ###  Twitch Integration
 Sind Sie ein Twitch-Streamer? Möchten Sie, dass Ihre Zuschauer Kunden, Kassierer, Aufstockungser oder Fußgänger im Spiel sind? Dann ist dieser Mod genau das Richtige für Sie! Mit diesem Mod können Ihre Twitch-Zuschauer im Spiel erscheinen.
+### Pallets Display
+Dieser Mod führt eine neue Palette in das Spiel ein, die vorerst als Displaymöbel fungiert, ermöglicht es Ihnen, den Kunden größere Mengen an Produkten anzuzeigen.
 ### Einige texturen verbessert
+### Einige Sounds verbessert
+
 
 # Der Mod ist endstanden durch der Community Vom Onkel
 ### lasst hier ein Follow <br>
