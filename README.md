@@ -59,8 +59,6 @@ Optimieren Sie Ihre Lieferungen mit diesem Mod, der Boxen nach Größe sortiert 
 Müde davon, Dateien umbenennen zu müssen, um einen anderen Save zu laden? Suchen Sie nicht weiter, dieser Mod ermöglicht es Ihnen, neue speichern direkt aus dem Spiel zu laden und zu erstellen.
 ### NarrowShelf
 Wenn Sie ein Regal an einem engen Ort hinzufügen müssen, können Sie jetzt! Dieses Regal nimmt die Hälfte des Standardregals ein!
-### NPCsCustomNames
-Benutzerdefinierte Namen für alle NPCs.
 ### ResizableLabels
 Ermöglicht die Konfigurieren der Größe der Display- und Rack-Etiketten.
 ### NarrowRack
