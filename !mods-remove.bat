@@ -25,7 +25,7 @@ start https://www.twitch.tv/gamerhd1991
 
 REM Schritt 1: Löschen alter Daten im Ordner, außer bestimmten Dateien und Ordnern
 echo Löschen alter Daten im Ordner...
-for %%D in ("BepInEx\cache" "BepInEx\core" "BepInEx\patchers" "MLLoader\assets" "MLLoader\MelonLoader" "MLLoader\Mods") do (
+for %%D in ("BepInEx\cache" "BepInEx\core" "BepInEx\patchers" "BepInEx\plugins" "MLLoader\assets" "MLLoader\MelonLoader" "MLLoader\Mods") do (
     if exist "%%D" (
         rd /s /q "%%D"
     )
