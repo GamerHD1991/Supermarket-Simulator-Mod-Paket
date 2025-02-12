@@ -1,0 +1,479 @@
+[
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch connected"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch disconnected"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth token expired"
+      },
+      "NoAuthToken": {
+        "Text": "No auth token in config"
+      },
+      "GenerateAuthToken": {
+        "Text": "Generate new auth token"
+      },
+      "TwitchCustomers": {
+        "Text": "Twitch Customers:"
+      },
+      "TwitchName": {
+        "Text": "Twitch name:"
+      },
+      "PickNewName": {
+        "Text": "Pick New Name"
+      },
+      "CustomerResetted": {
+        "Text": "Twitch Customers resetted"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Max. Twitch Customers for today in queue"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Max. Twitch Customers in queue"
+      },
+      "HireRestockerFirst": {
+        "Text": "You need to hire this restocker first!"
+      },
+      "HireCashierFirst": {
+        "Text": "You need to hire this cashier first!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Twitch Chat successfully connected to Supermarket Simulator! You can now use !visit and !talk <message> in the chat."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Twitch Chat successfully disconnected from Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "New mod version available!"
+      }
+    },
+    "Language": "en"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch verbunden"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch getrennt"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth-Token abgelaufen"
+      },
+      "NoAuthToken": {
+        "Text": "Kein Auth-Token in Config"
+      },
+      "GenerateAuthToken": {
+        "Text": "Neuen Auth-Token generieren"
+      },
+      "TwitchCustomers": {
+        "Text": "Twitch Kunden:"
+      },
+      "TwitchName": {
+        "Text": "Twitch Name:"
+      },
+      "PickNewName": {
+        "Text": "Neuen Namen wählen"
+      },
+      "CustomerResetted": {
+        "Text": "Twitch Kunden zurückgesetzt"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Max. Twitch Kunden für heute in der Warteschlange"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Max. Twitch Kunden in der Warteschlange"
+      },
+      "HireRestockerFirst": {
+        "Text": "Sie müssen diesen Auffüller zuerst einstellen!"
+      },
+      "HireCashierFirst": {
+        "Text": "Sie müssen diesen Kassierer zuerst einstellen!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Twitch Chat erfolgreich mit Supermarket Simulator verbunden! Du kannst jetzt !visit und !talk <message> im Chat benutzen."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Twitch Chat erfolgreich von Supermarket Simulator getrennt!"
+      },
+      "UpdateInfo": {
+        "Text": "Neue Mod-Version verfügbar!"
+      }
+    },
+    "Language": "de"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch connesso"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch disconnesso"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth token scaduto"
+      },
+      "NoAuthToken": {
+        "Text": "Nessun auth token nella config."
+      },
+      "GenerateAuthToken": {
+        "Text": "Generare un nuovo auth token"
+      },
+      "TwitchCustomers": {
+        "Text": "Clienti Twitch:"
+      },
+      "TwitchName": {
+        "Text": "Nome Twitch:"
+      },
+      "PickNewName": {
+        "Text": "Scegli il nuovo nome"
+      },
+      "CustomerResetted": {
+        "Text": "Clienti Twitch resettati"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Clienti Twitch massimi per oggi in coda"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Clienti Twitch massimi in coda"
+      },
+      "HireRestockerFirst": {
+        "Text": "Devi assumere prima questo magazziniere!"
+      },
+      "HireCashierFirst": {
+        "Text": "Devi assumere prima questo cassiere!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "La chat di Twitch si è connessa con successo a Supermarket Simulator! Ora è possibile usare !visit e !talk <message> nella chat."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "La chat di Twitch si è scollegata con successo da Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "Nuova versione della mod disponibile!"
+      }
+    },
+    "Language": "it"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch connecté"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch déconnecté"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth token expiré"
+      },
+      "NoAuthToken": {
+        "Text": "Pas de auth token dans la config"
+      },
+      "GenerateAuthToken": {
+        "Text": "Générer un nouveau auth token"
+      },
+      "TwitchCustomers": {
+        "Text": "Clients Twitch:"
+      },
+      "TwitchName": {
+        "Text": "Nom Twitch:"
+      },
+      "PickNewName": {
+        "Text": "Choisir un nouveau nom"
+      },
+      "CustomerResetted": {
+        "Text": "Clients Twitch réinitialisés"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Nombre maximum de clients Twitch pour aujourd'hui dans la file d'attente"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Nombre maximum de clients Twitch dans la file d'attente"
+      },
+      "HireRestockerFirst": {
+        "Text": "Vous devez d'abord embaucher ce réapprovisionneur!"
+      },
+      "HireCashierFirst": {
+        "Text": "Vous devez d'abord embaucher cette caissière!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Twitch Chat s'est connecté avec succès à Supermarket Simulator! Vous pouvez maintenant utiliser !visit et !talk <message> dans le chat."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Twitch Chat s'est déconnecté avec succès de Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "Nouvelle version du mod disponible!"
+      }
+    },
+    "Language": "fr"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch podłączony"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch rozłączony"
+      },
+      "AuthTokenExpired": {
+        "Text": "Token autoryzacji wygasł"
+      },
+      "NoAuthToken": {
+        "Text": "Brak tokena autoryzacji w konfiguracji"
+      },
+      "GenerateAuthToken": {
+        "Text": "Wygeneruj nowy token autoryzacji"
+      },
+      "TwitchCustomers": {
+        "Text": "Klienci Twitcha:"
+      },
+      "TwitchName": {
+        "Text": "Nazwa Twitch:"
+      },
+      "PickNewName": {
+        "Text": "Wybierz nową nazwę"
+      },
+      "CustomerResetted": {
+        "Text": "Klienci Twitcha zresetowani"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Maksymalna liczba klientów Twitcha w kolejce na dziś"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Maksymalna liczba klientów Twitcha w kolejce"
+      },
+      "HireRestockerFirst": {
+        "Text": "Najpierw musisz zatrudnić tego magazyniera!"
+      },
+      "HireCashierFirst": {
+        "Text": "Najpierw musisz zatrudnić tego kasjera!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Czat Twitch został pomyślnie połączony z Supermarket Simulator! Możesz teraz używać !visit i !talk <message> na czacie."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Czat Twitcha został pomyślnie odłączony od Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "Nowa wersja moda dostępna!"
+      }
+    },
+    "Language": "pl"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch bağlandı"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch bağlantısı kesildi"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth token'ın süresi doldu"
+      },
+      "NoAuthToken": {
+        "Text": "Yapılandırmada auth belirteci yok"
+      },
+      "GenerateAuthToken": {
+        "Text": "Yeni auth belirteci oluştur"
+      },
+      "TwitchCustomers": {
+        "Text": "Twitch Müşterileri:"
+      },
+      "TwitchName": {
+        "Text": "Twitch Adı:"
+      },
+      "PickNewName": {
+        "Text": "Yeni İsim Seçin"
+      },
+      "CustomerResetted": {
+        "Text": "Twitch müşterileri sıfırlandı"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Kuyrukta bugün için maksimum Twitch müşterisi"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Kuyruktaki maksimum Twitch müşterisi"
+      },
+      "HireRestockerFirst": {
+        "Text": "Önce bu stokçuyu işe almalısın!"
+      },
+      "HireCashierFirst": {
+        "Text": "Önce bu kasiyeri işe almalısın!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Twitch Chat, Supermarket Simulator başarıyla bağlandı! Artık sohbette !visit ve !talk <message> kullanabilirsin."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Twitch Chat'in Süpermarket Simülatörü ile bağlantısı başarıyla kesildi!"
+      },
+      "UpdateInfo": {
+        "Text": "Yeni mod sürümü mevcut!"
+      }
+    },
+    "Language": "tr"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch conectado"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch desconectado"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth token caducado"
+      },
+      "NoAuthToken": {
+        "Text": "No hay auth token en la config"
+      },
+      "GenerateAuthToken": {
+        "Text": "Generar nuevo auth token"
+      },
+      "TwitchCustomers": {
+        "Text": "Clientes de Twitch:"
+      },
+      "TwitchName": {
+        "Text": "Nombre de Twitch:"
+      },
+      "PickNewName": {
+        "Text": "Elegir nuevo nombre"
+      },
+      "CustomerResetted": {
+        "Text": "Clientes de Twitch restablecidos"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Máximo de clientes de Twitch para hoy en la cola"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Clientes máximos de Twitch en cola"
+      },
+      "HireRestockerFirst": {
+        "Text": "¡Tienes que contratar a este reponedor primero!"
+      },
+      "HireCashierFirst": {
+        "Text": "¡Usted necesita contratar a este cajero primero!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "¡Chat de Twitch conectado con éxito a Supermarket Simulator! Ahora puedes usar !visit y !talk <message> en el chat."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "El chat de Twitch se ha desconectado con éxito de Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "Nueva versión del mod disponible!"
+      }
+    },
+    "Language": "es"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch ligado"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch desligado"
+      },
+      "AuthTokenExpired": {
+        "Text": "Auth token expirado"
+      },
+      "NoAuthToken": {
+        "Text": "Nenhum auth token na configuração"
+      },
+      "GenerateAuthToken": {
+        "Text": "Gerar novo token de autenticação"
+      },
+      "TwitchCustomers": {
+        "Text": "Clientes do Twitch:"
+      },
+      "TwitchName": {
+        "Text": "Nome do Twitch:"
+      },
+      "PickNewName": {
+        "Text": "Escolher novo nome"
+      },
+      "CustomerResetted": {
+        "Text": "Clientes do Twitch redefinidos"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Máximo de clientes do Twitch para hoje em fila de espera"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Máximo de clientes do Twitch em fila de espera"
+      },
+      "HireRestockerFirst": {
+        "Text": "Precisas de contratar este repositor primeiro!"
+      },
+      "HireCashierFirst": {
+        "Text": "Precisa de contratar este caixa primeiro!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Twitch Chat conectado com sucesso ao Supermarket Simulator! Agora podes usar !visitar e !falar <mensagem> no chat."
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Twitch Chat desconectado com sucesso de Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "Nova versão do mod disponível!"
+      }
+    },
+    "Language": "pt"
+  },
+  {
+    "Localization": {
+      "TwitchConnected": {
+        "Text": "Twitch подключен"
+      },
+      "TwitchDisconnected": {
+        "Text": "Twitch отключен"
+      },
+      "AuthTokenExpired": {
+        "Text": "Срок действия Auth token истек"
+      },
+      "NoAuthToken": {
+        "Text": "Отсутствует Auth token в конфигурации"
+      },
+      "GenerateAuthToken": {
+        "Text": "Сгенерируйте новый auth token"
+      },
+      "TwitchCustomers": {
+        "Text": "Клиенты Twitch:"
+      },
+      "TwitchName": {
+        "Text": "Twitch Name:"
+      },
+      "PickNewName": {
+        "Text": "Выберите новое имя"
+      },
+      "CustomerResetted": {
+        "Text": "Клиенты Twitch сброшены"
+      },
+      "MaxCustomerTodayQueue": {
+        "Text": "Максимальное количество клиентов Twitch на сегодня в очереди"
+      },
+      "MaxCustomerQueue": {
+        "Text": "Максимальное количество клиентов Twitch в очереди"
+      },
+      "HireRestockerFirst": {
+        "Text": "Вам нужно сначала нанять этого пополнителя!"
+      },
+      "HireCashierFirst": {
+        "Text": "Вам нужно сначала нанять этого кассира!"
+      },
+      "ChatConnectedMsg": {
+        "Text": "Чат Twitch успешно подключился к Supermarket Simulator! Теперь вы можете использовать в чате команды !visit и !talk <message>"
+      },
+      "ChatDisconnectedMsg": {
+        "Text": "Чат Twitch успешно отключился от Supermarket Simulator!"
+      },
+      "UpdateInfo": {
+        "Text": "Доступна новая версия мода!"
+      }
+    },
+    "Language": "ru"
+  }
+]
